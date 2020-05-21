@@ -1,0 +1,22 @@
+<style>
+h1 {
+    font-size: 32px;
+    font-weight: 500;
+}
+
+h2 {
+    background-color: #009fdf;
+    color: white;
+    padding: 20px;
+    border-radius: 5px;
+    font-size: 28px;
+    font-weight: 500;
+}
+
+
+pre.code {
+  background-color:#efefef;
+  padding: 20px;
+  border: 1px solid #dedede;
+}
+</style>
