@@ -1,0 +1,1081 @@
+order_id,Priority,Cust_id,Segment,City,Category,Subcategory,Container,Profit,Quantity,Sales,Mode,order_Dte,Mnth,Year
+9285,Critical ,949,Consumer,Dortmund,Office Supplies,Accessories,Small Box,-18,3,122,Regular Air,01/01/2013,1,2013
+88028,Not Specified,2211,HomeOffice,Pretoria,Office Supplies,Storage,Large Box,-411,2,186,Express Air,01/01/2013,1,2013
+88296,High,2579,HomeOffice,Charleston,Furniture,Tables,Jumbo Box,-265,1,204,Delivery Truck,02/01/2013,1,2013
+89536,Critical,890,Consumer,Voronezh,Technology,Telephones,Small Box,440,6,766,Regular Air,04/01/2013,1,2013
+86122,Not Specified,1085,HomeOffice,Istanbul,Office Supplies,Paper,Wrap Bag,-39,6,46,Regular Air,04/01/2013,1,2013
+87071,Low,2146,Corporate,Cancun,Office Supplies,Storage,Large Box,29,2,41,Regular Air,05/01/2013,1,2013
+85826,High,2868,Corporate,Aomori,Office Supplies,Accessories,Small Box,3480,6,5509,Regular Air,07/01/2013,1,2013
+86527,Low,2555,HomeOffice,Salem,Office Supplies,Pens,Wrap Bag,-23,12,30,Regular Air,09/01/2013,1,2013
+90166,Critical,896,Corporate,Ryazan,Furniture,Furnishings,Wrap Bag,33,6,52,Regular Air,09/01/2013,1,2013
+89448,Low,1424,HomeOffice,Recife,Office Supplies,Envelopes,Small Box,43,7,65,Regular Air,11/01/2013,1,2013
+91200,Not Specified,750,Corporate,St. Petersburg,Office Supplies,Storage,Small Box,-217,10,267,Regular Air,11/01/2013,1,2013
+89704,Critical,1636,HomeOffice,Vijayawada,Technology,Office Machines,Jumbo Drum,-264,5,563,Delivery Truck,13/01/2013,1,2013
+88745,Low,3385,Corporate,Charlotte,Office Supplies,Pens,Wrap Bag,-21,5,15,Express Air,15/01/2013,1,2013
+88745,Low,3385,Corporate,Baltimore,Technology,Telephones,Small Box,412,6,790,Regular Air,15/01/2013,1,2013
+90473,Medium,1702,HomeOffice,Victoria,Office Supplies,Paper,Wrap Bag,9,3,13,Express Air,16/01/2013,1,2013
+91550,Medium,1971,Corporate,Merida,Office Supplies,Envelopes,Small Box,-28,3,36,Regular Air,17/01/2013,1,2013
+86898,Critical,3155,Corporate,Sacramento,Office Supplies,Appliances,Small Box,-187,9,561,Regular Air,19/01/2013,1,2013
+90000,Not Specified,1989,HomeOffice,Tijuana,Furniture,Chairs,Jumbo Drum,853,8,2885,Delivery Truck,21/01/2013,1,2013
+90189,Not Specified,1692,Consumer,Vancouver,Office Supplies,Scissors,Small Pack,-29,5,36,Regular Air,22/01/2013,1,2013
+90270,High,830,Corporate,St. Petersburg,Office Supplies,Appliances,Medium Box,-13,6,90,Regular Air,23/01/2013,1,2013
+86899,High,3155,Corporate,Nantes,Furniture,Chairs,Jumbo Drum,56,4,106,Delivery Truck,25/01/2013,1,2013
+86189,Medium,556,HomeOffice,Adelaide,Office Supplies,Storage,Large Box,-211,8,266,Express Air,27/01/2013,1,2013
+91229,Low,2775,Consumer,Milwaukee,Technology,Office Machines,Large Box,2764,8,4513,Regular Air,29/01/2013,1,2013
+40101,Low,1723,Corporate,Hong Kong,Technology,Peripherals,Small Box,13,46,2184,Express Air,30/01/2013,1,2013
+86051,Low,2204,HomeOffice,Davangere,Furniture,Chairs,Jumbo Drum,-152,5,167,Delivery Truck,03/02/2013,2,2013
+90731,Medium,1499,HomeOffice,Sao Paulo,Office Supplies,Accessories,Small Box,-14,8,17,Regular Air,03/02/2013,2,2013
+86051,Low,2203,HomeOffice,Varanasi,Technology,Office Machines,Jumbo Drum,726,8,1130,Delivery Truck,03/02/2013,2,2013
+44002,Medium,1723,Corporate,Hong Kong,Office Supplies,Storage,Small Box,-51,14,254,Regular Air,06/02/2013,2,2013
+88023,Not Specified,472,Consumer,Perth,Technology,Peripherals,Small Box,-413,1,177,Express Air,07/02/2013,2,2013
+87160,High,2778,Consumer,Burlington,Technology,Telephones,Small Box,107,12,2478,Express Air,10/02/2013,2,2013
+89928,Critical,3344,HomeOffice,Augusta,Furniture,Furnishings,Large Box,1493,11,2188,Regular Air,12/02/2013,2,2013
+86884,Critical,2490,HomeOffice,Stockholm,Furniture,Tables,Jumbo Box,-91,2,669,Delivery Truck,13/02/2013,2,2013
+87244,Low,1749,HomeOffice,Hong Kong,Furniture,Furnishings,Medium Box,43,1,61,Regular Air,13/02/2013,2,2013
+87002,High,1305,Consumer,Bangkok,Furniture,Furnishings,Medium Box,122,3,189,Regular Air,16/02/2013,2,2013
+87003,High,1303,Consumer,Libreville,Technology,Peripherals,Small Pack,306,12,485,Regular Air,18/02/2013,2,2013
+90237,Medium,233,SmallBusiness,Leeds,Office Supplies,Accessories,Small Box,-45,10,57,Regular Air,19/02/2013,2,2013
+90871,Critical,2865,Corporate,Santiago,Office Supplies,Storage,Small Box,84,8,270,Regular Air,22/02/2013,2,2013
+86486,Critical,2660,SmallBusiness,Santiago,Office Supplies,Storage,Large Box,-311,4,577,Regular Air,23/02/2013,2,2013
+89705,Critical,1639,HomeOffice,Varanasi,Office Supplies,Paper,Small Box,143,4,215,Regular Air,25/02/2013,2,2013
+89219,Medium,2454,Corporate,Shanghai,Technology,Copiers and Fax,Large Box,-66,1,3472,Express Air,01/03/2013,3,2013
+54369,Not Specified,2878,Consumer,Seattle,Technology,Peripherals,Small Pack,80,47,413,Express Air,02/03/2013,3,2013
+88267,Low,2358,Corporate,Houston,Technology,Telephones,Small Box,142,2,391,Regular Air,04/03/2013,3,2013
+90621,Low,1718,Consumer,Victoria,Furniture,Chairs,Jumbo Drum,-47,3,943,Delivery Truck,08/03/2013,3,2013
+89805,Medium,3194,Consumer,El Paso,Office Supplies,Paper,Small Box,30,9,43,Regular Air,11/03/2013,3,2013
+91235,High,1484,HomeOffice,Sao Paulo,Technology,Peripherals,Small Box,-123,3,298,Regular Air,11/03/2013,3,2013
+91144,Critical,605,Corporate,Hobart,Furniture,Tables,Large Box,-1704,10,1480,Express Air,14/03/2013,3,2013
+90917,Not Specified,375,SmallBusiness,Belfast,Furniture,Bookcases,Jumbo Box,-217,11,2286,Delivery Truck,14/03/2013,3,2013
+90359,Medium,724,Consumer,Adelaide,Technology,Telephones,Small Box,-95,1,121,Regular Air,15/03/2013,3,2013
+87631,High,2884,Consumer,Stockholm,Technology,Telephones,Medium Box,-12,10,284,Regular Air,19/03/2013,3,2013
+11077,Low,640,Consumer,Seattle,Furniture,Bookcases,Jumbo Box,-222,30,4791,Delivery Truck,20/03/2013,3,2013
+88824,Not Specified,3258,Consumer,Madison,Technology,Peripherals,Small Box,388,11,636,Regular Air,21/03/2013,3,2013
+90514,Medium,1369,Consumer,Sao Paulo,Office Supplies,Envelopes,Small Box,19,11,106,Express Air,24/03/2013,3,2013
+90557,Low,2308,SmallBusiness,Hong Kong,Office Supplies,Storage,Small Box,-337,8,1582,Regular Air,24/03/2013,3,2013
+90146,Not Specified,2287,Corporate,Beijing,Office Supplies,Paper,Small Box,53,6,75,Regular Air,25/03/2013,3,2013
+32869,Medium,698,Corporate,Munich,Technology,Telephones,Small Box,899,39,6519,Regular Air,27/03/2013,3,2013
+90238,High,234,SmallBusiness,Manchester,Technology,Peripherals,Small Pack,-12,2,32,Regular Air,27/03/2013,3,2013
+90600,Medium,1625,HomeOffice,Tijuana,Technology,Office Machines,Jumbo Drum,1618,12,2487,Delivery Truck,27/03/2013,3,2013
+87451,High,2530,SmallBusiness,Lyon,Technology,Peripherals,Small Box,-86,7,291,Regular Air,30/03/2013,3,2013
+87602,Medium,1315,HomeOffice,Rio de Janeiro,Office Supplies,Accessories,Small Box,-92,9,47,Regular Air,30/03/2013,3,2013
+86508,Critical,3224,SmallBusiness,Cheyenne,Furniture,Chairs,Jumbo Drum,-72,2,121,Delivery Truck,01/04/2013,4,2013
+88656,Low,2551,SmallBusiness,Bordeaux,Technology,Telephones,Small Pack,257,12,456,Regular Air,04/04/2013,4,2013
+90646,Not Specified,2960,Corporate,Marseille,Office Supplies,Pens,Wrap Bag,-87,11,382,Regular Air,05/04/2013,4,2013
+90766,High,3279,HomeOffice,Providence,Technology,Telephones,Small Box,8,11,1448,Regular Air,06/04/2013,4,2013
+89848,Low,696,Corporate,Perth,Technology,Peripherals,Small Box,-561,9,346,Regular Air,07/04/2013,4,2013
+91017,Not Specified,2539,HomeOffice,Paris,Office Supplies,Labels,Small Box,43,5,61,Regular Air,07/04/2013,4,2013
+86837,Critical,15,SmallBusiness,London,Office Supplies,Envelopes,Small Box,-58,7,33,Regular Air,08/04/2013,4,2013
+90977,Not Specified,1103,HomeOffice,Buenos Aires,Office Supplies,Appliances,Jumbo Drum,746,7,2303,Delivery Truck,10/04/2013,4,2013
+88278,High,2862,Corporate,Santiago,Furniture,Furnishings,Small Pack,74,9,116,Regular Air,11/04/2013,4,2013
+89017,Critical,2738,SmallBusiness,Milan,Technology,Peripherals,Small Pack,159,7,246,Regular Air,13/04/2013,4,2013
+86958,Medium,1827,Corporate,Cape Town,Technology,Telephones,Wrap Bag,255,5,440,Regular Air,18/04/2013,4,2013
+86958,Medium,1826,Corporate,Cape Town,Office Supplies,Storage,Small Box,-500,7,352,Express Air,18/04/2013,4,2013
+89522,Low,152,HomeOffice,Nottingham,Furniture,Furnishings,Medium Box,-39,8,665,Regular Air,19/04/2013,4,2013
+89939,Low,1777,Consumer,Tijuana,Office Supplies,Paper,Wrap Bag,26,7,37,Regular Air,22/04/2013,4,2013
+88889,Medium,678,Corporate,Yaroslavl,Office Supplies,Storage,Small Box,-106,5,78,Express Air,22/04/2013,4,2013
+89981,Low,1253,HomeOffice,Sao Paulo,Furniture,Tables,Jumbo Box,-3348,12,2423,Delivery Truck,23/04/2013,4,2013
+87396,High,2912,HomeOffice,Paris,Office Supplies,Paper,Small Box,428,12,660,Regular Air,28/04/2013,4,2013
+90239,Low,234,SmallBusiness,Manchester,Office Supplies,Pens,Wrap Bag,-21,8,26,Express Air,29/04/2013,4,2013
+87954,Critical,638,Consumer,Perth,Technology,Telephones,Small Box,278,9,589,Express Air,30/04/2013,4,2013
+88588,Medium,3356,Corporate,Santa Fe,Technology,Telephones,Small Box,585,15,1003,Express Air,04/05/2013,5,2013
+86655,Low,2380,SmallBusiness,Santa Fe,Office Supplies,Appliances,Jumbo Drum,-1034,17,1136,Delivery Truck,05/05/2013,5,2013
+90109,Low,2273,Corporate,Toronto,Office Supplies,Appliances,Small Box,1343,17,2084,Regular Air,05/05/2013,5,2013
+91042,High,1650,Corporate,Ahmednagar,Office Supplies,Labels,Small Box,14,7,84,Regular Air,09/05/2013,5,2013
+87899,Low,2820,HomeOffice,Riyadh,Technology,Peripherals,Small Pack,-80,18,113,Regular Air,10/05/2013,5,2013
+87824,High,1609,Consumer,Cancun,Office Supplies,Accessories,Small Box,-12,7,15,Regular Air,11/05/2013,5,2013
+89647,Low,353,HomeOffice,Birmingham,Office Supplies,Paper,Small Box,-136,16,105,Regular Air,14/05/2013,5,2013
+8353,Medium,491,Consumer,Liverpool,Office Supplies,Pens,Wrap Bag,-2,23,66,Regular Air,15/05/2013,5,2013
+88633,Critical,1023,SmallBusiness,Moscow,Office Supplies,Accessories,Small Box,427,16,646,Regular Air,15/05/2013,5,2013
+91063,Medium,488,Corporate,Hobart,Office Supplies,Paper,Small Box,-8,2,24,Regular Air,18/05/2013,5,2013
+87135,Not Specified,922,SmallBusiness,Voronezh,Technology,Telephones,Small Box,384,14,965,Express Air,20/05/2013,5,2013
+90578,Not Specified,871,HomeOffice,Voronezh,Office Supplies,Paper,Small Box,-32,18,123,Regular Air,20/05/2013,5,2013
+86535,Medium,1257,HomeOffice,Recife,Technology,Office Machines,Jumbo Drum,-159,5,606,Delivery Truck,22/05/2013,5,2013
+90524,Not Specified,1814,HomeOffice,Pretoria,Technology,Peripherals,Small Box,-953,17,1265,Express Air,23/05/2013,5,2013
+86221,High,3096,Consumer,San Diego,Office Supplies,Appliances,Small Box,-16,3,119,Express Air,24/05/2013,5,2013
+86610,Critical,2266,Corporate,Toronto,Office Supplies,Envelopes,Small Box,165,16,262,Regular Air,26/05/2013,5,2013
+86012,Critical,451,HomeOffice,Melbourne,Office Supplies,Accessories,Small Box,290,12,458,Regular Air,27/05/2013,5,2013
+86839,Medium,15,SmallBusiness,Manchester,Office Supplies,Envelopes,Small Box,253,10,376,Regular Air,28/05/2013,5,2013
+86868,Not Specified,797,Corporate,Yaroslavl,Office Supplies,Pens,Wrap Bag,-3,2,18,Regular Air,01/06/2013,6,2013
+91087,Critical,142,SmallBusiness,Manchester,Office Supplies,Paper,Small Box,89,13,304,Regular Air,02/06/2013,6,2013
+85866,Not Specified,1737,Corporate,Beijing,Office Supplies,Pens,Wrap Bag,-15,11,19,Express Air,03/06/2013,6,2013
+90360,Low,737,Consumer,Perth,Office Supplies,Paper,Small Box,408,12,596,Regular Air,07/06/2013,6,2013
+88212,Critical,1374,HomeOffice,Rio de Janeiro,Office Supplies,Appliances,Small Box,-21,1,44,Regular Air,07/06/2013,6,2013
+89095,Not Specified,2433,Consumer,Riyadh,Office Supplies,Accessories,Small Box,-7,5,44,Regular Air,10/06/2013,6,2013
+91116,Low,1469,SmallBusiness,Rio de Janeiro,Furniture,Tables,Jumbo Box,-1271,18,561,Delivery Truck,12/06/2013,6,2013
+88974,High,2771,Corporate,Charleston,Office Supplies,Appliances,Small Box,-185,3,524,Regular Air,13/06/2013,6,2013
+89201,Not Specified,33,Corporate,Belfast,Office Supplies,Accessories,Small Box,-82,13,56,Regular Air,15/06/2013,6,2013
+90735,Low,646,Corporate,Perth,Furniture,Furnishings,Small Box,253,16,848,Regular Air,17/06/2013,6,2013
+89761,Low,286,SmallBusiness,Edinburgh,Office Supplies,Accessories,Small Box,-60,9,39,Regular Air,17/06/2013,6,2013
+86491,Not Specified,3167,Corporate,Boise,Office Supplies,Paper,Small Box,-189,15,79,Regular Air,19/06/2013,6,2013
+90695,Low,437,SmallBusiness,Melbourne,Technology,Telephones,Small Box,413,9,1137,Regular Air,22/06/2013,6,2013
+90314,Low,2216,Corporate,Cape Town,Technology,Peripherals,Small Box,-207,3,797,Regular Air,23/06/2013,6,2013
+91053,Not Specified,721,Corporate,Sydney,Office Supplies,Pens,Wrap Bag,7,15,43,Express Air,24/06/2013,6,2013
+86410,Medium,1109,Consumer,Yaounde,Furniture,Furnishings,Large Box,-164,13,106,Regular Air,29/06/2013,6,2013
+36647,High,699,Consumer,Standerton,Office Supplies,Storage,Small Box,-116,27,249,Regular Air,30/06/2013,6,2013
+40224,Low,2882,Consumer,Stockholm,Furniture,Furnishings,Small Box,262,21,1346,Express Air,30/06/2013,6,2013
+87963,Critical,2256,Corporate,Vancouver,Office Supplies,Appliances,Small Box,-41,6,359,Express Air,02/07/2013,7,2013
+89940,Low,1777,Consumer,Merida,Office Supplies,Paper,Wrap Bag,88,13,135,Regular Air,03/07/2013,7,2013
+87696,High,2302,Corporate,Beijing,Furniture,Tables,Jumbo Box,-458,2,278,Delivery Truck,03/07/2013,7,2013
+85964,Medium,211,Consumer,Glasgow,Office Supplies,Paper,Wrap Bag,7,2,21,Regular Air,06/07/2013,7,2013
+86960,Low,1829,Corporate,Rio de Janeiro,Office Supplies,Storage,Small Box,-13,1,16,Regular Air,06/07/2013,7,2013
+87795,Low,3303,HomeOffice,Glendale,Office Supplies,Storage,Small Box,66,6,206,Regular Air,07/07/2013,7,2013
+88702,Low,2715,Corporate,Odessa,Technology,Peripherals,Small Pack,-72,1,31,Regular Air,12/07/2013,7,2013
+86520,High,120,Corporate,Belfast,Office Supplies,Labels,Small Box,40,10,63,Regular Air,12/07/2013,7,2013
+23877,Not Specified,2491,HomeOffice,Los Angeles,Technology,Telephones,Small Box,106,37,2396,Regular Air,12/07/2013,7,2013
+89129,Not Specified,3036,HomeOffice,Shanghai,Office Supplies,Paper,Small Box,160,7,249,Regular Air,16/07/2013,7,2013
+90027,Not Specified,526,HomeOffice,Melbourne,Office Supplies,Accessories,Small Box,-15,13,26,Regular Air,17/07/2013,7,2013
+88781,Medium,1708,SmallBusiness,Toronto,Office Supplies,Envelopes,Small Box,37,10,57,Regular Air,17/07/2013,7,2013
+86145,Medium,1405,HomeOffice,Sao Paulo,Technology,Peripherals,Small Box,-20,12,374,Regular Air,21/07/2013,7,2013
+87435,Not Specified,3229,SmallBusiness,Cheyenne,Office Supplies,Accessories,Small Box,253,15,391,Regular Air,21/07/2013,7,2013
+88030,Low,2209,HomeOffice,Mossel Bay,Office Supplies,Paper,Wrap Bag,-95,12,83,Regular Air,22/07/2013,7,2013
+90462,Low,3311,SmallBusiness,Jackson,Office Supplies,Paper,Wrap Bag,38,9,58,Regular Air,26/07/2013,7,2013
+87556,Low,2795,Corporate,Dallas,Office Supplies,Pens,Small Pack,-68,8,29,Regular Air,26/07/2013,7,2013
+9606,Not Specified,898,SmallBusiness,Melbourne,Office Supplies,Paper,Wrap Bag,36,44,224,Express Air,27/07/2013,7,2013
+90909,High,550,Corporate,Perth,Office Supplies,Pens,Wrap Bag,-32,11,19,Regular Air,30/07/2013,7,2013
+87162,Low,2781,Consumer,Nantes,Office Supplies,Paper,Small Box,-42,3,21,Regular Air,31/07/2013,7,2013
+90059,Critical,510,Corporate,Perth,Office Supplies,Accessories,Small Box,-28,14,91,Regular Air,01/08/2013,8,2013
+89941,Not Specified,1776,Consumer,Tijuana,Office Supplies,Paper,Small Box,-52,19,106,Regular Air,04/08/2013,8,2013
+87258,Medium,980,Corporate,Kaliningrad,Office Supplies,Storage,Small Box,91,12,478,Regular Air,05/08/2013,8,2013
+87995,Low,1607,HomeOffice,Cancun,Office Supplies,Scissors,Small Pack,-32,21,113,Express Air,06/08/2013,8,2013
+88015,Not Specified,2619,Corporate,Riyadh,Office Supplies,Pens,Small Pack,-20,4,118,Regular Air,10/08/2013,8,2013
+90531,Not Specified,1633,HomeOffice,Gurgaon,Technology,Peripherals,Small Pack,-74,6,37,Regular Air,10/08/2013,8,2013
+86053,Critical,2204,Consumer,Tumkur,Furniture,Tables,Jumbo Box,-85,20,6001,Delivery Truck,10/08/2013,8,2013
+91025,Medium,1743,Consumer,Hong Kong,Technology,Telephones,Small Pack,-117,1,59,Regular Air,12/08/2013,8,2013
+87057,High,306,SmallBusiness,Cardiff,Technology,Peripherals,Small Pack,15,8,70,Regular Air,14/08/2013,8,2013
+41636,Critical,2190,HomeOffice,Varanasi,Office Supplies,Pens,Small Pack,-46,45,766,Regular Air,14/08/2013,8,2013
+89601,Critical,2260,Corporate,Toronto,Technology,Telephones,Small Pack,44,9,197,Regular Air,15/08/2013,8,2013
+90860,High,2427,Corporate,Riyadh,Office Supplies,Paper,Small Box,382,21,881,Regular Air,17/08/2013,8,2013
+87570,High,2141,HomeOffice,Cancun,Office Supplies,Pens,Small Pack,12,7,158,Express Air,18/08/2013,8,2013
+89059,High,875,SmallBusiness,Ryazan,Office Supplies,Appliances,Small Box,-72,18,80,Regular Air,21/08/2013,8,2013
+90271,Not Specified,829,Corporate,Yaroslavl,Office Supplies,Paper,Wrap Bag,-17,5,27,Regular Air,22/08/2013,8,2013
+87678,Critical,2697,Corporate,Stockholm,Technology,Office Machines,Jumbo Box,-1157,21,2633,Delivery Truck,23/08/2013,8,2013
+86556,High,573,Corporate,Perth,Office Supplies,Storage,Small Box,-260,1,404,Regular Air,26/08/2013,8,2013
+47813,High,1044,HomeOffice,Rome,Office Supplies,Paper,Small Box,-74,90,635,Regular Air,27/08/2013,8,2013
+88546,Medium,3151,HomeOffice,San Francisco,Office Supplies,Scissors,Small Pack,46,7,122,Regular Air,28/08/2013,8,2013
+86566,Critical,946,HomeOffice,Moscow,Furniture,Furnishings,Medium Box,-1517,20,1747,Express Air,01/09/2013,9,2013
+89776,High,1764,Consumer,Cancun,Furniture,Furnishings,Small Box,28,23,39,Regular Air,01/09/2013,9,2013
+86792,Critical,3133,Corporate,Sacramento,Technology,Telephones,Small Box,1328,22,3477,Regular Air,04/09/2013,9,2013
+91195,Critical,868,Corporate,St. Petersburg,Furniture,Tables,Jumbo Drum,-2846,12,4027,Delivery Truck,06/09/2013,9,2013
+88569,Not Specified,851,Corporate,Kaliningrad,Office Supplies,Accessories,Small Box,-58,21,73,Regular Air,07/09/2013,9,2013
+88426,Not Specified,52,Corporate,Manchester,Technology,Telephones,Small Box,157,6,734,Regular Air,10/09/2013,9,2013
+86927,Critical,2896,HomeOffice,Dnipropetrovsk,Office Supplies,Paper,Small Box,-81,15,362,Regular Air,12/09/2013,9,2013
+90148,Medium,2285,Corporate,Victoria,Office Supplies,Storage,Small Box,-82,21,384,Express Air,13/09/2013,9,2013
+38080,Not Specified,1682,Consumer,Chicago,Office Supplies,Paper,Small Box,-54,47,227,Regular Air,14/09/2013,9,2013
+87043,Not Specified,3001,Consumer,Riyadh,Office Supplies,Accessories,Small Box,-230,21,116,Regular Air,17/09/2013,9,2013
+91386,Low,2647,Corporate,Shanghai,Furniture,Furnishings,Wrap Bag,114,4,167,Regular Air,17/09/2013,9,2013
+88667,Critical,771,SmallBusiness,St. Petersburg,Office Supplies,Appliances,Small Box,-8,3,44,Regular Air,19/09/2013,9,2013
+86327,Critical,3105,HomeOffice,Cheyenne,Office Supplies,Paper,Small Box,4,13,87,Regular Air,20/09/2013,9,2013
+89140,Medium,247,Corporate,Nottingham,Office Supplies,Labels,Small Box,-22,10,28,Regular Air,21/09/2013,9,2013
+89041,Critical,1976,Consumer,Cancun,Office Supplies,Paper,Small Box,207,14,569,Regular Air,23/09/2013,9,2013
+90881,Critical,1241,SmallBusiness,Cairo,Technology,Office Machines,Jumbo Drum,514,7,1396,Delivery Truck,25/09/2013,9,2013
+88837,Critical,3379,Corporate,Montgomery,Office Supplies,Paper,Small Box,-183,12,253,Express Air,26/09/2013,9,2013
+89910,Low,800,Consumer,Voronezh,Technology,Peripherals,Small Box,-13,11,568,Regular Air,28/09/2013,9,2013
+88882,Medium,568,Consumer,Sydney,Office Supplies,Accessories,Small Box,217,16,1045,Express Air,01/10/2013,10,2013
+88921,Critical,197,SmallBusiness,Liverpool,Office Supplies,Storage,Small Box,1128,19,3239,Regular Air,02/10/2013,10,2013
+91057,Low,321,Consumer,Glasgow,Technology,Peripherals,Small Pack,10,11,93,Regular Air,04/10/2013,10,2013
+87383,Critical,2604,Corporate,Pretoria,Technology,Office Machines,Jumbo Drum,-327,3,932,Delivery Truck,05/10/2013,10,2013
+89175,Medium,2196,SmallBusiness,Ahmednagar,Technology,Peripherals,Small Box,1168,14,2393,Regular Air,07/10/2013,10,2013
+89818,High,1957,Consumer,Beijing,Technology,Peripherals,Small Box,-59,1,74,Regular Air,07/10/2013,10,2013
+87877,High,1250,Corporate,Tel Aviv,Office Supplies,Paper,Small Box,106,8,235,Regular Air,09/10/2013,10,2013
+89375,Critical,1233,Consumer,Córdoba,Technology,Peripherals,Small Box,-125,1,158,Express Air,09/10/2013,10,2013
+89148,Low,2684,SmallBusiness,Nagoya,Furniture,Furnishings,Medium Box,-19,5,24,Regular Air,10/10/2013,10,2013
+47108,Not Specified,1821,Consumer,New York City,Furniture,Furnishings,Small Pack,145,34,622,Regular Air,15/10/2013,10,2013
+89579,Medium,377,Consumer,Glasgow,Office Supplies,Appliances,Medium Box,242,17,452,Regular Air,17/10/2013,10,2013
+88857,Low,1962,HomeOffice,Merida,Office Supplies,Paper,Small Box,584,18,894,Regular Air,18/10/2013,10,2013
+88075,Medium,56,Consumer,London,Office Supplies,Accessories,Small Box,19,20,75,Regular Air,20/10/2013,10,2013
+89602,High,2260,Corporate,Vancouver,Technology,Office Machines,Jumbo Drum,327,4,461,Delivery Truck,21/10/2013,10,2013
+87620,High,2932,SmallBusiness,Nantes,Office Supplies,Paper,Small Box,-51,1,37,Regular Air,22/10/2013,10,2013
+7623,Critical,3011,Corporate,Stockholm,Office Supplies,Appliances,Large Box,1239,32,9849,Regular Air,28/10/2013,10,2013
+86346,Critical,3012,Corporate,Riyadh,Office Supplies,Paper,Small Box,898,14,1394,Regular Air,28/10/2013,10,2013
+86164,Critical,2353,Corporate,Hartford,Technology,Telephones,Wrap Bag,-76,2,44,Regular Air,29/10/2013,10,2013
+38852,Not Specified,1193,SmallBusiness,Singapore,Office Supplies,Accessories,Small Box,37,85,520,Regular Air,01/11/2013,11,2013
+89639,Low,408,Corporate,Canberra,Office Supplies,Accessories,Small Box,228,14,401,Regular Air,02/11/2013,11,2013
+88298,Low,2578,HomeOffice,Burlington,Office Supplies,Rubber Bands,Wrap Bag,-124,26,97,Regular Air,02/11/2013,11,2013
+90820,High,3176,Consumer,Jackson,Technology,Peripherals,Small Box,63,19,207,Regular Air,04/11/2013,11,2013
+87813,High,693,SmallBusiness,Perth,Furniture,Tables,Jumbo Box,5890,36,8775,Delivery Truck,05/11/2013,11,2013
+89730,Critical,1261,HomeOffice,Rio de Janeiro,Technology,Peripherals,Small Box,42,5,383,Regular Air,07/11/2013,11,2013
+90796,High,1595,Corporate,Tijuana,Furniture,Furnishings,Medium Box,23,9,85,Regular Air,11/11/2013,11,2013
+91174,Medium,539,SmallBusiness,Sydney,Office Supplies,Accessories,Small Box,154,7,419,Regular Air,14/11/2013,11,2013
+90594,Medium,266,Corporate,Edinburgh,Office Supplies,Paper,Small Box,9,10,63,Regular Air,15/11/2013,11,2013
+86860,Not Specified,3113,Corporate,Hartford,Office Supplies,Accessories,Small Box,-20,17,576,Regular Air,17/11/2013,11,2013
+86828,High,1433,Corporate,Sao Paulo,Furniture,Chairs,Jumbo Drum,1352,14,4136,Delivery Truck,19/11/2013,11,2013
+87980,Medium,700,Consumer,Canberra,Office Supplies,Pens,Wrap Bag,33,22,89,Regular Air,20/11/2013,11,2013
+89047,Medium,2976,SmallBusiness,New York,Technology,Telephones,Small Pack,853,41,1542,Regular Air,22/11/2013,11,2013
+88282,Low,2858,Corporate,Shanghai,Office Supplies,Accessories,Small Box,14,30,2045,Regular Air,23/11/2013,11,2013
+91175,Medium,540,SmallBusiness,Adelaide,Technology,Office Machines,Medium Box,5724,41,8390,Regular Air,23/11/2013,11,2013
+86077,Medium,1237,Corporate,Las Plumas,Technology,Telephones,Small Box,13,11,2296,Express Air,25/11/2013,11,2013
+87214,Critical,250,Corporate,Liverpool,Office Supplies,Pens,Wrap Bag,1,39,104,Express Air,28/11/2013,11,2013
+90922,Critical,663,HomeOffice,Sydney,Furniture,Furnishings,Small Box,10,17,256,Regular Air,29/11/2013,11,2013
+85966,Medium,210,HomeOffice,Belfast,Furniture,Furnishings,Small Box,43,3,63,Regular Air,02/12/2013,12,2013
+85966,Medium,211,HomeOffice,Manchester,Office Supplies,Scissors,Small Pack,-35,20,42,Regular Air,02/12/2013,12,2013
+29889,Not Specified,2548,SmallBusiness,Los Angeles,Office Supplies,Pens,Wrap Bag,23,81,465,Regular Air,04/12/2013,12,2013
+45824,Not Specified,1106,Consumer,Singapore,Furniture,Chairs,Large Box,1191,81,11074,Regular Air,06/12/2013,12,2013
+86104,High,3045,SmallBusiness,Santiago,Office Supplies,Paper,Small Box,-14,12,82,Regular Air,06/12/2013,12,2013
+89408,Low,1384,Consumer,Rio de Janeiro,Office Supplies,Appliances,Small Box,23,21,1541,Regular Air,07/12/2013,12,2013
+87917,Medium,2543,SmallBusiness,Houston,Furniture,Furnishings,Small Pack,3,17,267,Regular Air,11/12/2013,12,2013
+87885,Medium,2840,Corporate,Riyadh,Office Supplies,Paper,Small Box,-32,1,40,Regular Air,11/12/2013,12,2013
+88219,Critical,2046,Corporate,Toronto,Furniture,Tables,Jumbo Box,-421,13,4851,Delivery Truck,12/12/2013,12,2013
+85981,High,3339,Consumer,San Francisco,Office Supplies,Labels,Small Box,4,7,19,Regular Air,14/12/2013,12,2013
+88004,High,1492,Corporate,Recife,Technology,Office Machines,Jumbo Drum,493,6,729,Delivery Truck,16/12/2013,12,2013
+86460,Medium,907,HomeOffice,Lipetsk,Office Supplies,Pens,Wrap Bag,21,12,30,Regular Air,18/12/2013,12,2013
+42852,Not Specified,491,Consumer,Liverpool,Office Supplies,Paper,Small Box,-61,24,225,Regular Air,20/12/2013,12,2013
+86165,Critical,2352,Consumer,Philadelphia,Office Supplies,Storage,Small Box,731,18,1067,Regular Air,20/12/2013,12,2013
+88220,High,2049,Corporate,Toronto,Technology,Peripherals,Small Pack,-258,19,297,Regular Air,21/12/2013,12,2013
+87488,Low,1551,Consumer,Hamburg,Office Supplies,Storage,Small Box,-235,18,313,Regular Air,25/12/2013,12,2013
+87148,Low,2062,Corporate,Victoria,Furniture,Chairs,Jumbo Drum,-112,22,6502,Delivery Truck,26/12/2013,12,2013
+87587,Low,1203,SmallBusiness,Bangkok,Technology,Peripherals,Small Box,-8,12,576,Regular Air,28/12/2013,12,2013
+86433,Low,3118,Corporate,New York,Furniture,Furnishings,Medium Box,85,3,119,Regular Air,01/01/2014,1,2014
+87246,Low,1750,HomeOffice,Hong Kong,Furniture,Furnishings,Small Box,-14,9,18,Regular Air,02/01/2014,1,2014
+89620,Critical,1031,SmallBusiness,San Pedro,Technology,Telephones,Medium Box,160,11,227,Regular Air,02/01/2014,1,2014
+88922,High,196,SmallBusiness,Cardiff,Office Supplies,Paper,Small Box,-24,2,11,Express Air,05/01/2014,1,2014
+88922,High,196,SmallBusiness,Cardiff,Technology,Telephones,Small Box,15,4,186,Regular Air,05/01/2014,1,2014
+87397,Medium,2913,HomeOffice,Lyon,Office Supplies,Paper,Small Box,-27,5,34,Regular Air,07/01/2014,1,2014
+88175,Not Specified,672,SmallBusiness,Kaliningrad,Technology,Peripherals,Small Pack,-52,8,38,Express Air,10/01/2014,1,2014
+57318,Medium,1193,SmallBusiness,Cairo,Office Supplies,Labels,Small Box,29,33,168,Regular Air,10/01/2014,1,2014
+48487,Low,604,HomeOffice,Sao Paulo,Office Supplies,Accessories,Small Box,56,27,370,Regular Air,11/01/2014,1,2014
+90215,Critical,1057,SmallBusiness,Moscow,Furniture,Chairs,Jumbo Drum,33,5,638,Delivery Truck,14/01/2014,1,2014
+87375,Not Specified,2903,SmallBusiness,Odessa,Office Supplies,Paper,Small Box,-9,2,11,Regular Air,14/01/2014,1,2014
+21574,Critical,1193,SmallBusiness,Singapore,Technology,Peripherals,Small Pack,-58,33,74,Regular Air,15/01/2014,1,2014
+86291,High,2900,HomeOffice,Donetsk,Office Supplies,Storage,Medium Box,200,12,326,Regular Air,18/01/2014,1,2014
+89220,Critical,2455,Corporate,Shanghai,Furniture,Furnishings,Small Box,83,7,228,Regular Air,20/01/2014,1,2014
+88759,High,2791,Corporate,Bordeaux,Furniture,Furnishings,Large Box,-80,12,102,Express Air,20/01/2014,1,2014
+86352,Not Specified,562,HomeOffice,Sydney,Office Supplies,Appliances,Small Box,1510,12,2391,Regular Air,25/01/2014,1,2014
+86352,Not Specified,562,HomeOffice,Perth,Furniture,Bookcases,Jumbo Box,-573,7,399,Delivery Truck,25/01/2014,1,2014
+90045,Critical,1006,SmallBusiness,St. Petersburg,Office Supplies,Appliances,Small Box,-56,8,83,Regular Air,26/01/2014,1,2014
+90726,Medium,2763,Corporate,Burlington,Office Supplies,Envelopes,Small Box,671,13,1036,Regular Air,31/01/2014,1,2014
+89118,Not Specified,1163,Corporate,Yaounde,Office Supplies,Envelopes,Small Box,56,5,81,Regular Air,01/02/2014,2,2014
+88031,High,2213,HomeOffice,Mossel Bay,Technology,Peripherals,Small Box,-118,1,104,Express Air,01/02/2014,2,2014
+56931,High,1060,SmallBusiness,St. Petersburg,Technology,Telephones,Medium Box,-142,34,272,Regular Air,03/02/2014,2,2014
+86510,Critical,3224,SmallBusiness,Burlington,Office Supplies,Paper,Wrap Bag,11,2,16,Regular Air,04/02/2014,2,2014
+86510,Critical,3224,SmallBusiness,Albany,Technology,Telephones,Small Box,-86,2,128,Regular Air,04/02/2014,2,2014
+89744,High,2817,Corporate,Riyadh,Office Supplies,Paper,Wrap Bag,-49,9,70,Express Air,07/02/2014,2,2014
+87739,Medium,479,SmallBusiness,Adelaide,Furniture,Chairs,Jumbo Drum,-403,11,3229,Delivery Truck,08/02/2014,2,2014
+91168,Critical,2587,HomeOffice,San Diego,Office Supplies,Accessories,Small Box,109,4,157,Regular Air,09/02/2014,2,2014
+87021,Low,603,SmallBusiness,Hobart,Office Supplies,Paper,Wrap Bag,13,2,19,Regular Air,11/02/2014,2,2014
+10080,Low,1413,Corporate,Recife,Technology,Peripherals,Small Box,-26,20,649,Regular Air,12/02/2014,2,2014
+86679,Not Specified,2235,Consumer,Vancouver,Office Supplies,Paper,Small Box,-46,3,18,Regular Air,13/02/2014,2,2014
+36065,High,1060,SmallBusiness,St. Petersburg,Office Supplies,Envelopes,Small Box,-82,31,539,Regular Air,17/02/2014,2,2014
+86428,Medium,2954,Consumer,Boise,Office Supplies,Storage,Large Box,-820,9,761,Regular Air,19/02/2014,2,2014
+88107,Not Specified,1131,Corporate,Istanbul,Office Supplies,Paper,Small Box,39,12,123,Regular Air,20/02/2014,2,2014
+90740,Medium,3209,Corporate,Cheyenne,Technology,Peripherals,Small Box,109,12,384,Regular Air,22/02/2014,2,2014
+88841,Low,3379,HomeOffice,Des Moines,Office Supplies,Paper,Small Box,-83,10,104,Regular Air,23/02/2014,2,2014
+88206,Medium,99,Consumer,Sheffield,Office Supplies,Rubber Bands,Wrap Bag,28,12,44,Regular Air,23/02/2014,2,2014
+88000,Medium,956,Consumer,Voronezh,Technology,Office Machines,Small Box,-77,1,97,Regular Air,25/02/2014,2,2014
+89418,Low,3074,Corporate,Stockholm,Technology,Peripherals,Small Box,-333,9,741,Regular Air,26/02/2014,2,2014
+86251,Critical,547,Corporate,Hobart,Office Supplies,Paper,Small Box,107,7,300,Regular Air,26/02/2014,2,2014
+86557,Not Specified,573,HomeOffice,Hobart,Technology,Office Machines,Jumbo Drum,2624,8,3976,Delivery Truck,27/02/2014,2,2014
+86105,Low,3043,Corporate,Shanghai,Furniture,Bookcases,Jumbo Box,-774,7,910,Delivery Truck,27/02/2014,2,2014
+86437,Not Specified,608,Corporate,Adelaide,Office Supplies,Paper,Small Box,-55,8,50,Regular Air,01/03/2014,3,2014
+89026,Medium,3187,Consumer,Cheyenne,Office Supplies,Paper,Small Box,-114,11,122,Express Air,03/03/2014,3,2014
+89681,Low,1602,HomeOffice,Merida,Office Supplies,Accessories,Small Box,57,10,115,Regular Air,03/03/2014,3,2014
+91252,Medium,3236,HomeOffice,New York,Technology,Telephones,Small Box,241,7,780,Regular Air,05/03/2014,3,2014
+90692,Not Specified,3183,HomeOffice,Nantes,Office Supplies,Accessories,Small Box,59,2,86,Regular Air,07/03/2014,3,2014
+90736,Medium,646,Corporate,Canberra,Technology,Telephones,Wrap Bag,-300,9,735,Express Air,08/03/2014,3,2014
+86174,Medium,970,HomeOffice,St. Petersburg,Office Supplies,Scissors,Small Pack,43,6,60,Regular Air,09/03/2014,3,2014
+90816,Not Specified,3221,Consumer,Montgomery,Technology,Telephones,Small Box,71,3,399,Express Air,12/03/2014,3,2014
+88648,Medium,576,Corporate,Sydney,Furniture,Chairs,Jumbo Drum,-346,4,517,Delivery Truck,13/03/2014,3,2014
+88648,Medium,577,Corporate,Perth,Office Supplies,Pens,Wrap Bag,59,9,90,Regular Air,13/03/2014,3,2014
+90203,Low,990,Corporate,Voronezh,Technology,Telephones,Small Box,354,12,752,Regular Air,19/03/2014,3,2014
+86065,Medium,2656,Corporate,Santiago,Office Supplies,Paper,Small Box,-49,10,67,Regular Air,21/03/2014,3,2014
+86065,Medium,2656,Corporate,Santiago,Office Supplies,Paper,Small Box,47,7,66,Regular Air,21/03/2014,3,2014
+87349,Critical,363,SmallBusiness,Sheffield,Furniture,Tables,Jumbo Box,-692,6,1838,Delivery Truck,25/03/2014,3,2014
+88872,Critical,1940,Corporate,Hong Kong,Technology,Peripherals,Small Pack,228,11,354,Regular Air,27/03/2014,3,2014
+89149,Low,2685,SmallBusiness,Nagoya,Furniture,Tables,Large Box,-489,12,2439,Regular Air,28/03/2014,3,2014
+89060,Low,874,SmallBusiness,Ryazan,Furniture,Chairs,Jumbo Drum,190,9,460,Delivery Truck,30/03/2014,3,2014
+88613,Medium,2964,Consumer,Charlotte,Technology,Office Machines,Jumbo Drum,1543,5,2557,Delivery Truck,01/04/2014,4,2014
+87179,Medium,92,Corporate,Birmingham,Office Supplies,Pens,Wrap Bag,30,5,49,Regular Air,02/04/2014,4,2014
+29700,Medium,1193,Consumer,Córdoba,Office Supplies,Labels,Small Box,5,9,29,Regular Air,06/04/2014,4,2014
+88412,Medium,1271,Corporate,Rio de Janeiro,Office Supplies,Appliances,Small Box,-25,7,75,Regular Air,07/04/2014,4,2014
+90204,Not Specified,984,SmallBusiness,Lipetsk,Office Supplies,Pens,Small Pack,-76,5,60,Regular Air,08/04/2014,4,2014
+86185,High,2746,Corporate,Marseille,Office Supplies,Appliances,Medium Box,-8,2,24,Regular Air,11/04/2014,4,2014
+87973,Medium,3299,Consumer,Salt Lake City,Office Supplies,Paper,Small Box,-16,3,20,Express Air,11/04/2014,4,2014
+86185,High,2746,Corporate,Milwaukee,Furniture,Furnishings,Small Pack,63,7,108,Express Air,11/04/2014,4,2014
+89972,High,2223,SmallBusiness,Pretoria,Technology,Telephones,Small Box,266,5,807,Express Air,15/04/2014,4,2014
+86034,High,2641,HomeOffice,Shanghai,Office Supplies,Labels,Small Box,29,8,41,Regular Air,16/04/2014,4,2014
+86467,High,2560,Consumer,Richmond,Office Supplies,Appliances,Medium Box,-37,9,153,Regular Air,16/04/2014,4,2014
+90416,Low,1948,Corporate,Hong Kong,Office Supplies,Storage,Small Box,-49,7,183,Express Air,20/04/2014,4,2014
+90041,Low,2363,HomeOffice,Augusta,Office Supplies,Storage,Small Box,-125,7,115,Regular Air,20/04/2014,4,2014
+89593,Critical,1216,SmallBusiness,Córdoba,Office Supplies,Paper,Small Box,133,6,206,Regular Air,20/04/2014,4,2014
+89335,Medium,2039,Corporate,Sao Paulo,Office Supplies,Paper,Small Box,40,3,57,Regular Air,27/04/2014,4,2014
+89745,Low,2816,Corporate,Riyadh,Office Supplies,Storage,Small Box,-27,6,100,Regular Air,28/04/2014,4,2014
+90363,Medium,730,Consumer,Sydney,Furniture,Furnishings,Jumbo Drum,-169,11,267,Delivery Truck,29/04/2014,4,2014
+90482,High,242,SmallBusiness,Manchester,Furniture,Furnishings,Small Pack,82,7,124,Regular Air,01/05/2014,5,2014
+88138,Not Specified,2466,HomeOffice,Aomori,Technology,Office Machines,Jumbo Box,243,16,1884,Delivery Truck,02/05/2014,5,2014
+8131,Critical,1488,HomeOffice,Voronezh,Technology,Peripherals,Small Pack,185,35,1093,Regular Air,03/05/2014,5,2014
+90305,Critical,1510,Corporate,Sao Paulo,Technology,Copiers and Fax,Large Box,329,8,1570,Regular Air,05/05/2014,5,2014
+88214,Low,1376,HomeOffice,Recife,Office Supplies,Paper,Small Box,-41,8,49,Regular Air,06/05/2014,5,2014
+4004,Medium,3011,Corporate,Riyadh,Office Supplies,Pens,Wrap Bag,8,20,92,Regular Air,06/05/2014,5,2014
+88108,Medium,1133,HomeOffice,Libreville,Office Supplies,Accessories,Small Box,-10,7,13,Regular Air,09/05/2014,5,2014
+88126,High,542,HomeOffice,Canberra,Furniture,Tables,Jumbo Box,-1017,12,546,Delivery Truck,10/05/2014,5,2014
+89830,Medium,310,Consumer,Belfast,Office Supplies,Paper,Small Box,-230,16,107,Regular Air,11/05/2014,5,2014
+87427,Low,1558,Consumer,Barcelona,Furniture,Bookcases,Jumbo Box,-43,8,569,Delivery Truck,12/05/2014,5,2014
+87702,Low,418,SmallBusiness,Canberra,Office Supplies,Paper,Small Box,63,15,490,Regular Air,13/05/2014,5,2014
+86386,Medium,393,Corporate,Perth,Furniture,Furnishings,Small Pack,869,13,1307,Express Air,14/05/2014,5,2014
+89236,Not Specified,204,Corporate,Bristol,Furniture,Furnishings,Medium Box,20,3,30,Regular Air,16/05/2014,5,2014
+87456,Not Specified,2530,SmallBusiness,Lyon,Office Supplies,Pens,Small Pack,190,17,691,Regular Air,17/05/2014,5,2014
+90978,Critical,1105,HomeOffice,Bangkok,Technology,Telephones,Small Box,1023,15,1915,Regular Air,19/05/2014,5,2014
+88892,Medium,679,Corporate,St. Petersburg,Office Supplies,Accessories,Small Box,-26,17,146,Regular Air,21/05/2014,5,2014
+86374,Medium,2399,Corporate,Jackson,Office Supplies,Rubber Bands,Wrap Bag,-42,16,94,Express Air,22/05/2014,5,2014
+89027,High,3186,Consumer,Philadelphia,Office Supplies,Rubber Bands,Wrap Bag,-11,6,13,Regular Air,23/05/2014,5,2014
+88930,High,382,Corporate,Canberra,Office Supplies,Accessories,Small Box,-27,1,22,Regular Air,25/05/2014,5,2014
+89837,Not Specified,3265,Corporate,Hartford,Office Supplies,Paper,Small Box,87,9,213,Regular Air,25/05/2014,5,2014
+43526,High,308,Consumer,Marseille,Office Supplies,Envelopes,Small Box,-2,71,807,Regular Air,26/05/2014,5,2014
+89925,High,80,SmallBusiness,Glasgow,Furniture,Furnishings,Medium Box,517,7,759,Regular Air,29/05/2014,5,2014
+35840,High,272,HomeOffice,Cardiff,Technology,Telephones,Wrap Bag,765,71,5928,Regular Air,29/05/2014,5,2014
+87490,Medium,1552,SmallBusiness,Frankfurt,Technology,Peripherals,Small Pack,-26,13,281,Regular Air,30/05/2014,5,2014
+87188,Not Specified,2973,HomeOffice,Lincoln,Office Supplies,Scissors,Small Pack,11,6,68,Express Air,03/06/2014,6,2014
+86015,Low,459,HomeOffice,Melbourne,Technology,Peripherals,Small Box,-59,7,79,Regular Air,04/06/2014,6,2014
+89739,Medium,685,SmallBusiness,Kaliningrad,Technology,Telephones,Small Pack,307,6,539,Regular Air,05/06/2014,6,2014
+45413,High,1193,SmallBusiness,Tel Aviv,Office Supplies,Accessories,Small Box,-71,27,121,Regular Air,08/06/2014,6,2014
+91336,Low,661,Consumer,Adelaide,Furniture,Furnishings,Small Pack,84,9,131,Regular Air,08/06/2014,6,2014
+91368,Medium,649,HomeOffice,Sydney,Office Supplies,Rubber Bands,Wrap Bag,-5,12,60,Regular Air,09/06/2014,6,2014
+89597,Low,1360,Consumer,Rio de Janeiro,Office Supplies,Accessories,Small Box,-6,8,17,Regular Air,13/06/2014,6,2014
+91521,High,2435,Consumer,Riyadh,Office Supplies,Paper,Wrap Bag,7,8,48,Express Air,14/06/2014,6,2014
+90134,Critical,1090,Corporate,Las Plumas,Technology,Peripherals,Small Pack,-134,18,86,Regular Air,14/06/2014,6,2014
+86332,Critical,1946,Consumer,Bogota,Furniture,Tables,Jumbo Box,-282,8,1173,Delivery Truck,16/06/2014,6,2014
+88490,High,1545,Corporate,Duisburg,Office Supplies,Storage,Large Box,-180,1,280,Regular Air,17/06/2014,6,2014
+4610,Low,2548,SmallBusiness,Los Angeles,Office Supplies,Envelopes,Small Box,196,44,670,Regular Air,17/06/2014,6,2014
+90642,Medium,1038,Corporate,Cairo,Office Supplies,Accessories,Small Box,-15,3,19,Regular Air,21/06/2014,6,2014
+88470,High,1921,SmallBusiness,Bogota,Technology,Peripherals,Small Pack,419,18,626,Regular Air,21/06/2014,6,2014
+87163,Not Specified,2780,Corporate,Salem,Furniture,Furnishings,Small Box,-3,12,115,Regular Air,23/06/2014,6,2014
+89420,Medium,3074,Corporate,Stockholm,Office Supplies,Paper,Small Box,-11,3,13,Express Air,25/06/2014,6,2014
+89056,Low,2423,HomeOffice,Riyadh,Office Supplies,Appliances,Small Box,2214,14,3299,Regular Air,25/06/2014,6,2014
+89469,High,2176,SmallBusiness,Bangalore,Furniture,Furnishings,Large Box,-261,19,284,Regular Air,26/06/2014,6,2014
+88208,Not Specified,112,Consumer,Sheffield,Technology,Peripherals,Small Box,-133,16,169,Regular Air,29/06/2014,6,2014
+91230,High,1287,Corporate,Istanbul,Technology,Peripherals,Small Pack,-55,18,142,Regular Air,30/06/2014,6,2014
+90231,Not Specified,1569,Corporate,Hong Kong,Furniture,Furnishings,Medium Box,10,6,62,Regular Air,03/07/2014,7,2014
+86016,Low,451,HomeOffice,Adelaide,Technology,Peripherals,Small Box,-63,2,38,Regular Air,04/07/2014,7,2014
+87981,Medium,701,Consumer,Adelaide,Office Supplies,Paper,Wrap Bag,39,5,111,Regular Air,09/07/2014,7,2014
+91338,Low,642,Corporate,Hobart,Office Supplies,Labels,Small Box,72,14,107,Regular Air,14/07/2014,7,2014
+89752,Medium,1329,SmallBusiness,Sao Paulo,Technology,Peripherals,Small Pack,317,14,502,Regular Air,16/07/2014,7,2014
+89274,High,1662,HomeOffice,Cape Town,Office Supplies,Pens,Wrap Bag,103,8,157,Regular Air,17/07/2014,7,2014
+90650,Critical,174,Corporate,Nottingham,Office Supplies,Scissors,Small Pack,-70,9,55,Express Air,17/07/2014,7,2014
+90872,High,2864,Corporate,Santiago,Technology,Copiers and Fax,Jumbo Drum,1160,5,2279,Delivery Truck,20/07/2014,7,2014
+88050,High,214,HomeOffice,Nottingham,Office Supplies,Accessories,Small Box,400,9,583,Regular Air,21/07/2014,7,2014
+91210,Low,1354,Consumer,Libreville,Furniture,Furnishings,Small Pack,32,7,77,Express Air,21/07/2014,7,2014
+91050,Low,2801,HomeOffice,Pretoria,Technology,Telephones,Small Box,-42,4,470,Express Air,23/07/2014,7,2014
+91317,Low,2787,Consumer,New York,Office Supplies,Paper,Wrap Bag,39,13,55,Express Air,24/07/2014,7,2014
+91317,Low,2788,Consumer,New York,Office Supplies,Accessories,Small Box,-171,13,109,Express Air,24/07/2014,7,2014
+87523,Critical,1171,Consumer,Buenos Aires,Technology,Telephones,Small Pack,-75,2,74,Regular Air,25/07/2014,7,2014
+86176,High,966,HomeOffice,St. Petersburg,Technology,Telephones,Small Box,62,6,409,Regular Air,26/07/2014,7,2014
+89841,Low,3092,Corporate,Philadelphia,Furniture,Chairs,Jumbo Drum,-220,2,219,Delivery Truck,27/07/2014,7,2014
+86253,Medium,546,Corporate,Adelaide,Furniture,Furnishings,Small Pack,45,10,68,Regular Air,29/07/2014,7,2014
+86712,Medium,1448,SmallBusiness,Recife,Furniture,Tables,Jumbo Box,33,6,253,Delivery Truck,30/07/2014,7,2014
+86538,Not Specified,1259,HomeOffice,Sao Paulo,Office Supplies,Pens,Wrap Bag,-69,12,33,Regular Air,30/07/2014,7,2014
+89700,Medium,1850,Consumer,Vancouver,Furniture,Furnishings,Wrap Bag,15,1,41,Regular Air,03/08/2014,8,2014
+86741,Critical,1454,Corporate,Sao Paulo,Technology,Telephones,Small Box,-110,3,190,Regular Air,03/08/2014,8,2014
+89946,Medium,1776,Consumer,Merida,Technology,Telephones,Small Box,-6,6,393,Regular Air,04/08/2014,8,2014
+86689,Critical,1935,Corporate,Hong Kong,Office Supplies,Storage,Small Box,105,8,928,Regular Air,05/08/2014,8,2014
+90543,Not Specified,1418,SmallBusiness,Sao Paulo,Office Supplies,Pens,Wrap Bag,18,12,36,Regular Air,06/08/2014,8,2014
+87491,Medium,1553,HomeOffice,Barcelona,Technology,Peripherals,Small Box,-51,8,88,Regular Air,07/08/2014,8,2014
+90651,High,174,Corporate,Sheffield,Office Supplies,Pens,Wrap Bag,7,3,15,Regular Air,11/08/2014,8,2014
+88270,Medium,2359,Corporate,Augusta,Technology,Telephones,Small Pack,62,4,87,Regular Air,13/08/2014,8,2014
+89541,High,888,Consumer,Kaliningrad,Furniture,Tables,Large Box,602,14,892,Express Air,14/08/2014,8,2014
+85908,High,817,Consumer,Kaliningrad,Technology,Peripherals,Small Pack,-58,15,90,Regular Air,17/08/2014,8,2014
+88787,Critical,1707,SmallBusiness,Victoria,Office Supplies,Paper,Small Box,648,17,944,Regular Air,17/08/2014,8,2014
+91278,Medium,2004,HomeOffice,Davangere,Office Supplies,Appliances,Small Box,82,9,181,Regular Air,18/08/2014,8,2014
+88843,Medium,3379,Corporate,Richmond,Technology,Telephones,Small Pack,-15,20,1111,Express Air,22/08/2014,8,2014
+90232,Not Specified,1568,Corporate,Hong Kong,Office Supplies,Pens,Wrap Bag,96,7,147,Express Air,23/08/2014,8,2014
+89973,High,2225,SmallBusiness,Johannesburg,Office Supplies,Envelopes,Small Box,-26,12,65,Regular Air,23/08/2014,8,2014
+85845,Low,1799,Corporate,Varanasi,Technology,Peripherals,Small Box,-22,10,267,Regular Air,26/08/2014,8,2014
+46375,Medium,2565,HomeOffice,Milan,Office Supplies,Paper,Small Box,376,43,1576,Regular Air,26/08/2014,8,2014
+90790,High,1722,Corporate,Vancouver,Office Supplies,Storage,Small Box,-70,13,193,Regular Air,26/08/2014,8,2014
+90609,Low,1842,Consumer,Rio de Janeiro,Furniture,Tables,Jumbo Box,-183,3,464,Delivery Truck,30/08/2014,8,2014
+86975,Critical,1687,Corporate,Vancouver,Furniture,Chairs,Jumbo Drum,-80,9,2522,Delivery Truck,30/08/2014,8,2014
+86975,Critical,1687,Corporate,Victoria,Office Supplies,Paper,Wrap Bag,29,9,43,Regular Air,31/08/2014,8,2014
+89010,Critical,1025,SmallBusiness,St. Petersburg,Furniture,Chairs,Jumbo Drum,-409,5,780,Delivery Truck,03/09/2014,9,2014
+88804,Medium,2007,Corporate,Tumkur,Office Supplies,Rubber Bands,Wrap Bag,-46,21,121,Regular Air,04/09/2014,9,2014
+88513,Not Specified,535,Corporate,Sydney,Furniture,Furnishings,Small Pack,-113,20,419,Regular Air,05/09/2014,9,2014
+88594,High,3356,Corporate,Denver,Office Supplies,Envelopes,Small Box,88,18,135,Regular Air,07/09/2014,9,2014
+89390,Critical,1045,HomeOffice,Libreville,Office Supplies,Pens,Wrap Bag,6,16,63,Regular Air,08/09/2014,9,2014
+88302,Not Specified,2577,HomeOffice,Burlington,Office Supplies,Accessories,Small Box,52,14,74,Regular Air,09/09/2014,9,2014
+90517,Not Specified,1367,SmallBusiness,Recife,Technology,Peripherals,Small Box,-48,17,258,Regular Air,11/09/2014,9,2014
+89498,Not Specified,2825,Consumer,Cape Town,Technology,Office Machines,Large Box,-9916,2,13458,Regular Air,12/09/2014,9,2014
+15303,Critical,1314,HomeOffice,Paris,Office Supplies,Accessories,Small Box,-72,38,178,Regular Air,13/09/2014,9,2014
+90453,High,862,Corporate,Ryazan,Furniture,Chairs,Jumbo Drum,326,7,1243,Delivery Truck,14/09/2014,9,2014
+90105,Low,3320,SmallBusiness,Boise,Office Supplies,Pens,Wrap Bag,-57,18,54,Regular Air,15/09/2014,9,2014
+91138,High,3022,Corporate,Riyadh,Office Supplies,Accessories,Small Box,42,13,151,Regular Air,17/09/2014,9,2014
+358,High,2747,Corporate,New York City,Technology,Peripherals,Small Pack,260,60,2325,Regular Air,19/09/2014,9,2014
+87060,Low,305,SmallBusiness,Leeds,Office Supplies,Appliances,Small Box,289,10,502,Regular Air,19/09/2014,9,2014
+358,High,2747,Corporate,New York City,Furniture,Bookcases,Jumbo Box,-1302,60,3014,Delivery Truck,19/09/2014,9,2014
+88529,Low,228,SmallBusiness,Sheffield,Technology,Telephones,Small Box,149,21,1419,Regular Air,22/09/2014,9,2014
+91425,Not Specified,2750,SmallBusiness,Marseille,Furniture,Bookcases,Jumbo Box,1,9,647,Delivery Truck,23/09/2014,9,2014
+91092,Not Specified,149,SmallBusiness,Belfast,Office Supplies,Appliances,Medium Box,70,3,148,Regular Air,24/09/2014,9,2014
+90975,Medium,327,Consumer,Liverpool,Technology,Peripherals,Small Pack,20,10,86,Regular Air,25/09/2014,9,2014
+33505,Low,2645,Consumer,Milan,Technology,Telephones,Small Box,300,64,5401,Express Air,25/09/2014,9,2014
+39238,Critical,3289,Corporate,Rome,Office Supplies,Accessories,Small Box,108,16,623,Express Air,26/09/2014,9,2014
+86530,Low,2555,HomeOffice,Raleigh,Office Supplies,Storage,Small Box,-228,22,373,Regular Air,28/09/2014,9,2014
+59008,Critical,2107,Corporate,Chicago,Technology,Office Machines,Jumbo Drum,1222,71,6475,Delivery Truck,29/09/2014,9,2014
+89078,Not Specified,1442,Corporate,Recife,Furniture,Bookcases,Jumbo Box,-468,6,746,Delivery Truck,30/09/2014,9,2014
+86634,High,2678,SmallBusiness,Tokyo,Office Supplies,Paper,Wrap Bag,3,2,20,Regular Air,03/10/2014,10,2014
+90195,Critical,10,HomeOffice,Perth,Office Supplies,Envelopes,Small Box,138,14,216,Regular Air,04/10/2014,10,2014
+86236,Low,3272,HomeOffice,Houston,Office Supplies,Accessories,Small Box,-55,14,70,Regular Air,04/10/2014,10,2014
+87350,Not Specified,361,SmallBusiness,London,Technology,Telephones,Small Box,280,11,1346,Regular Air,07/10/2014,10,2014
+87470,High,2092,Consumer,Vancouver,Furniture,Furnishings,Small Box,-30,14,319,Regular Air,07/10/2014,10,2014
+7619,Not Specified,2882,Consumer,Stockholm,Technology,Peripherals,Small Pack,-31,14,253,Regular Air,08/10/2014,10,2014
+86146,High,1406,Corporate,Sao Paulo,Office Supplies,Rubber Bands,Wrap Bag,5,13,20,Regular Air,09/10/2014,10,2014
+87703,Low,423,SmallBusiness,Melbourne,Office Supplies,Appliances,Small Box,916,22,1342,Regular Air,10/10/2014,10,2014
+88493,High,1546,Corporate,Berlin,Furniture,Tables,Large Box,36,10,3009,Regular Air,11/10/2014,10,2014
+34849,Critical,2107,HomeOffice,Chicago,Office Supplies,Storage,Small Box,-504,5,2057,Regular Air,12/10/2014,10,2014
+85820,Low,2409,SmallBusiness,Baltimore,Office Supplies,Storage,Large Box,-223,3,118,Regular Air,13/10/2014,10,2014
+88322,Critical,2500,SmallBusiness,Madrid,Office Supplies,Storage,Small Box,-22,15,428,Express Air,15/10/2014,10,2014
+90777,Low,1796,Corporate,Ahmednagar,Office Supplies,Accessories,Small Box,3081,15,4683,Express Air,16/10/2014,10,2014
+88063,Low,464,SmallBusiness,Canberra,Furniture,Furnishings,Wrap Bag,16,14,71,Regular Air,18/10/2014,10,2014
+90845,Not Specified,942,HomeOffice,Yaroslavl,Office Supplies,Paper,Small Box,-32,5,32,Regular Air,19/10/2014,10,2014
+86939,High,2021,HomeOffice,Mossel Bay,Office Supplies,Paper,Wrap Bag,2,4,20,Express Air,22/10/2014,10,2014
+87983,Not Specified,705,Consumer,Melbourne,Office Supplies,Storage,Large Box,-325,3,514,Regular Air,22/10/2014,10,2014
+86983,Low,2784,Corporate,Baltimore,Office Supplies,Appliances,Small Box,23,9,130,Regular Air,23/10/2014,10,2014
+86400,High,1461,HomeOffice,Sao Paulo,Furniture,Bookcases,Jumbo Box,2693,18,5660,Delivery Truck,26/10/2014,10,2014
+90936,Medium,1585,Corporate,Tijuana,Office Supplies,Appliances,Medium Box,200,6,297,Regular Air,27/10/2014,10,2014
+87368,Not Specified,84,Corporate,Belfast,Office Supplies,Appliances,Small Box,2209,18,4330,Express Air,29/10/2014,10,2014
+88696,Low,2243,Corporate,Toronto,Office Supplies,Paper,Small Box,-42,4,20,Regular Air,30/10/2014,10,2014
+87120,Medium,2034,Consumer,Johannesburg,Office Supplies,Paper,Small Box,-256,22,459,Regular Air,31/10/2014,10,2014
+86206,Medium,3296,Corporate,New York,Office Supplies,Pens,Wrap Bag,17,21,58,Regular Air,31/10/2014,10,2014
+43745,Low,1999,Corporate,Varanasi,Technology,Peripherals,Small Box,27,88,4545,Regular Air,01/11/2014,11,2014
+23271,High,181,SmallBusiness,Manchester,Technology,Office Machines,Jumbo Drum,-1689,3,2329,Delivery Truck,03/11/2014,11,2014
+86138,High,2916,HomeOffice,Marseille,Office Supplies,Paper,Small Box,55,31,273,Express Air,04/11/2014,11,2014
+89821,High,1955,Consumer,Hong Kong,Technology,Office Machines,Medium Box,-180,38,5571,Regular Air,08/11/2014,11,2014
+90655,Critical,1732,SmallBusiness,Beijing,Office Supplies,Envelopes,Small Box,364,37,559,Regular Air,08/11/2014,11,2014
+87513,Critical,2947,Consumer,Jamestown,Technology,Peripherals,Small Pack,6,17,29,Regular Air,09/11/2014,11,2014
+86773,Not Specified,1118,HomeOffice,San Pedro,Furniture,Bookcases,Jumbo Box,139,43,2612,Delivery Truck,13/11/2014,11,2014
+91507,Medium,2753,Consumer,Albany,Office Supplies,Accessories,Small Box,45,23,164,Regular Air,13/11/2014,11,2014
+87261,Critical,981,Corporate,Kaliningrad,Office Supplies,Appliances,Small Box,164,8,463,Express Air,14/11/2014,11,2014
+89974,Critical,2223,SmallBusiness,Mossel Bay,Office Supplies,Labels,Small Box,61,31,78,Express Air,18/11/2014,11,2014
+86540,Not Specified,1259,HomeOffice,Recife,Furniture,Chairs,Large Box,6,29,7861,Regular Air,18/11/2014,11,2014
+87409,Medium,61,SmallBusiness,London,Furniture,Bookcases,Jumbo Box,179,28,2300,Delivery Truck,18/11/2014,11,2014
+88506,Not Specified,688,SmallBusiness,Ryazan,Office Supplies,Accessories,Small Box,17,11,127,Regular Air,21/11/2014,11,2014
+90329,High,2572,Consumer,Columbia,Technology,Copiers and Fax,Large Box,6650,21,12499,Regular Air,22/11/2014,11,2014
+90559,Not Specified,2313,SmallBusiness,Hong Kong,Office Supplies,Pens,Wrap Bag,100,25,142,Regular Air,23/11/2014,11,2014
+87744,Not Specified,477,SmallBusiness,Canberra,Technology,Peripherals,Small Box,-454,21,686,Regular Air,24/11/2014,11,2014
+88284,Medium,2860,Corporate,Santiago,Furniture,Bookcases,Jumbo Box,193,35,5131,Delivery Truck,24/11/2014,11,2014
+89975,High,2223,SmallBusiness,Johannesburg,Furniture,Furnishings,Small Box,20,40,255,Regular Air,25/11/2014,11,2014
+86087,Not Specified,2968,SmallBusiness,Richmond,Office Supplies,Accessories,Small Box,-20,3,95,Regular Air,29/11/2014,11,2014
+87514,Not Specified,2949,Consumer,Montgomery,Office Supplies,Appliances,Small Box,26,31,356,Express Air,29/11/2014,11,2014
+89754,Critical,1324,SmallBusiness,Recife,Office Supplies,Storage,Small Box,101,43,1662,Regular Air,30/11/2014,11,2014
+89947,Low,1777,Consumer,Cancun,Office Supplies,Pens,Wrap Bag,6,10,30,Regular Air,03/12/2014,12,2014
+85881,Not Specified,1494,Corporate,Sao Paulo,Office Supplies,Paper,Small Box,-13,7,44,Regular Air,03/12/2014,12,2014
+88370,High,2015,HomeOffice,Tumkur,Furniture,Furnishings,Small Box,102,15,187,Regular Air,04/12/2014,12,2014
+85871,Not Specified,1738,Corporate,Hong Kong,Office Supplies,Paper,Small Box,88,19,123,Regular Air,05/12/2014,12,2014
+20036,Not Specified,1723,Corporate,Hong Kong,Office Supplies,Appliances,Small Box,-30,46,523,Regular Air,05/12/2014,12,2014
+90342,Medium,386,Corporate,Hobart,Office Supplies,Paper,Small Box,652,18,1031,Regular Air,07/12/2014,12,2014
+86817,Low,1526,HomeOffice,Rio de Janeiro,Furniture,Tables,Jumbo Box,-94,11,5948,Delivery Truck,10/12/2014,12,2014
+91074,High,1599,SmallBusiness,Merida,Furniture,Furnishings,Small Box,205,4,306,Regular Air,12/12/2014,12,2014
+90390,Medium,2159,Corporate,Merida,Furniture,Furnishings,Small Box,-8,23,325,Regular Air,12/12/2014,12,2014
+90343,Critical,387,Corporate,Sydney,Technology,Telephones,Medium Box,-46,1,22,Regular Air,14/12/2014,12,2014
+90082,Not Specified,2130,HomeOffice,Merida,Office Supplies,Scissors,Small Pack,28,11,122,Regular Air,14/12/2014,12,2014
+90343,Critical,387,Corporate,Sydney,Office Supplies,Accessories,Small Box,-72,19,417,Express Air,14/12/2014,12,2014
+91560,Critical,1319,HomeOffice,Sao Paulo,Office Supplies,Paper,Wrap Bag,44,12,66,Regular Air,19/12/2014,12,2014
+33826,Low,272,SmallBusiness,Cardiff,Furniture,Furnishings,Small Pack,38,24,352,Regular Air,19/12/2014,12,2014
+85883,High,1497,HomeOffice,Rio de Janeiro,Furniture,Tables,Jumbo Box,-468,15,5840,Delivery Truck,20/12/2014,12,2014
+88754,Not Specified,792,Corporate,Voronezh,Technology,Peripherals,Small Box,145,10,1561,Regular Air,22/12/2014,12,2014
+91153,High,559,HomeOffice,Melbourne,Furniture,Furnishings,Large Box,-93,1,133,Regular Air,24/12/2014,12,2014
+88261,Critical,1789,Consumer,Vijayawada,Office Supplies,Accessories,Small Box,397,20,585,Regular Air,24/12/2014,12,2014
+86818,High,1526,SmallBusiness,Sao Paulo,Furniture,Bookcases,Jumbo Box,110,1,155,Delivery Truck,26/12/2014,12,2014
+87300,Low,3252,Corporate,Lincoln,Technology,Telephones,Small Box,-270,3,571,Regular Air,26/12/2014,12,2014
+86095,Critical,2080,HomeOffice,Toronto,Office Supplies,Accessories,Small Box,-27,15,101,Regular Air,28/12/2014,12,2014
+19556,Not Specified,640,Consumer,Munich,Technology,Telephones,Small Box,703,65,7320,Regular Air,30/12/2014,12,2014
+87957,Not Specified,637,Consumer,Melbourne,Technology,Telephones,Small Box,987,16,1802,Regular Air,30/12/2014,12,2014
+18530,Not Specified,1413,Corporate,Sao Paulo,Furniture,Furnishings,Small Box,47,4,84,Regular Air,31/12/2014,12,2014
+90374,Medium,3333,HomeOffice,San Francisco,Technology,Telephones,Small Box,313,6,545,Regular Air,03/01/2015,1,2015
+89243,Medium,2710,Consumer,Odessa,Office Supplies,Pens,Wrap Bag,14,4,25,Regular Air,04/01/2015,1,2015
+89243,Medium,2708,Consumer,Odessa,Office Supplies,Pens,Small Pack,-103,5,61,Regular Air,04/01/2015,1,2015
+50945,Critical,3342,HomeOffice,San Francisco,Technology,Telephones,Small Pack,74,30,1128,Regular Air,07/01/2015,1,2015
+46402,Medium,2878,Consumer,Milan,Furniture,Furnishings,Small Box,125,30,896,Regular Air,08/01/2015,1,2015
+89362,Low,2652,Consumer,Shanghai,Technology,Peripherals,Small Pack,-37,10,46,Regular Air,08/01/2015,1,2015
+88141,Critical,2466,Corporate,Tokyo,Office Supplies,Labels,Small Box,10,4,16,Regular Air,10/01/2015,1,2015
+88933,Not Specified,381,Corporate,Adelaide,Office Supplies,Pens,Wrap Bag,25,11,63,Regular Air,10/01/2015,1,2015
+89741,Low,686,SmallBusiness,Yaroslavl,Office Supplies,Accessories,Small Box,-132,10,53,Regular Air,10/01/2015,1,2015
+88272,Critical,2360,Corporate,San Francisco,Office Supplies,Accessories,Small Box,171,10,260,Regular Air,15/01/2015,1,2015
+19365,Medium,1282,SmallBusiness,Istanbul,Office Supplies,Paper,Small Box,-67,32,196,Regular Air,16/01/2015,1,2015
+87800,Critical,3304,HomeOffice,Providence,Furniture,Chairs,Jumbo Drum,444,5,1477,Delivery Truck,18/01/2015,1,2015
+90464,Not Specified,3312,SmallBusiness,Bordeaux,Technology,Peripherals,Small Pack,95,8,139,Regular Air,22/01/2015,1,2015
+49443,High,2491,HomeOffice,Rome,Office Supplies,Pens,Wrap Bag,-17,46,454,Regular Air,23/01/2015,1,2015
+386,High,3289,Corporate,Los Angeles,Office Supplies,Labels,Small Box,0,4,15,Regular Air,24/01/2015,1,2015
+86424,Not Specified,1074,HomeOffice,Ryazan,Office Supplies,Pens,Wrap Bag,-8,10,23,Regular Air,27/01/2015,1,2015
+90953,Low,2639,Consumer,Riyadh,Office Supplies,Paper,Small Box,-98,5,57,Regular Air,28/01/2015,1,2015
+91169,Medium,2587,HomeOffice,Hartford,Furniture,Chairs,Jumbo Drum,-182,3,339,Delivery Truck,29/01/2015,1,2015
+90763,Critical,2023,HomeOffice,Pretoria,Furniture,Chairs,Jumbo Drum,-120,6,151,Delivery Truck,01/02/2015,2,2015
+88796,Critical,2166,SmallBusiness,Gurgaon,Technology,Telephones,Small Pack,-116,8,160,Regular Air,02/02/2015,2,2015
+90392,Medium,2161,HomeOffice,Tijuana,Office Supplies,Labels,Small Box,56,14,85,Regular Air,03/02/2015,2,2015
+88830,Low,3258,Consumer,Richmond,Furniture,Tables,Jumbo Box,10,11,4555,Delivery Truck,05/02/2015,2,2015
+86168,Medium,2352,Consumer,Boise,Furniture,Tables,Jumbo Box,-749,1,308,Delivery Truck,06/02/2015,2,2015
+89421,Critical,3073,Corporate,Osaka,Office Supplies,Paper,Small Box,38,9,53,Regular Air,06/02/2015,2,2015
+34881,Medium,607,Corporate,Melbourne,Office Supplies,Accessories,Small Box,-82,41,214,Regular Air,07/02/2015,2,2015
+15300,High,553,HomeOffice,Tel Aviv,Office Supplies,Paper,Small Box,-73,47,249,Express Air,08/02/2015,2,2015
+86477,Critical,3030,SmallBusiness,Shanghai,Technology,Telephones,Small Box,-180,3,348,Regular Air,09/02/2015,2,2015
+87894,Low,2101,HomeOffice,Bogota,Office Supplies,Appliances,Small Box,32,8,171,Regular Air,12/02/2015,2,2015
+89294,Medium,274,Corporate,Sheffield,Furniture,Bookcases,Jumbo Box,-1190,8,801,Delivery Truck,13/02/2015,2,2015
+91046,Not Specified,1650,Corporate,Vijayawada,Furniture,Tables,Jumbo Box,324,5,1423,Delivery Truck,13/02/2015,2,2015
+88704,Low,2715,Corporate,Madrid,Office Supplies,Accessories,Small Box,-40,12,51,Regular Air,15/02/2015,2,2015
+90325,Low,2450,HomeOffice,Shanghai,Office Supplies,Appliances,Jumbo Drum,1441,8,2126,Delivery Truck,15/02/2015,2,2015
+86642,Low,760,SmallBusiness,Moscow,Office Supplies,Storage,Small Box,-7,1,12,Regular Air,17/02/2015,2,2015
+88603,Critical,1213,Corporate,Tel Aviv,Office Supplies,Scissors,Wrap Bag,-61,12,38,Regular Air,20/02/2015,2,2015
+40962,Critical,2189,Corporate,Hong Kong,Office Supplies,Appliances,Small Box,529,31,1729,Regular Air,20/02/2015,2,2015
+87263,Critical,976,Corporate,Ryazan,Office Supplies,Paper,Small Box,-33,8,42,Regular Air,21/02/2015,2,2015
+91070,High,611,HomeOffice,Adelaide,Office Supplies,Paper,Small Box,-54,2,45,Regular Air,24/02/2015,2,2015
+90149,High,2287,Corporate,Beijing,Furniture,Furnishings,Wrap Bag,-96,5,93,Regular Air,26/02/2015,2,2015
+88715,Medium,2462,Corporate,Shanghai,Office Supplies,Paper,Small Box,76,3,108,Regular Air,26/02/2015,2,2015
+87969,Critical,2256,Corporate,Toronto,Technology,Telephones,Small Box,791,5,1034,Regular Air,01/03/2015,3,2015
+87301,Critical,3249,SmallBusiness,Baltimore,Technology,Peripherals,Small Box,-37,10,190,Regular Air,02/03/2015,3,2015
+88128,Critical,542,HomeOffice,Perth,Technology,Telephones,Wrap Bag,145,12,253,Regular Air,03/03/2015,3,2015
+87369,High,83,Corporate,Birmingham,Office Supplies,Paper,Wrap Bag,18,10,91,Regular Air,05/03/2015,3,2015
+87369,High,83,Corporate,Sheffield,Office Supplies,Pens,Wrap Bag,31,12,48,Regular Air,05/03/2015,3,2015
+90954,Critical,2638,Consumer,Riyadh,Furniture,Tables,Large Box,-333,2,420,Regular Air,07/03/2015,3,2015
+90893,Medium,2118,HomeOffice,Hong Kong,Furniture,Furnishings,Small Pack,78,6,113,Regular Air,10/03/2015,3,2015
+87837,Medium,2669,Corporate,Osaka,Furniture,Tables,Jumbo Box,-667,8,837,Delivery Truck,10/03/2015,3,2015
+86321,Medium,597,Consumer,Canberra,Furniture,Chairs,Jumbo Drum,-203,4,396,Delivery Truck,11/03/2015,3,2015
+88142,Low,2469,HomeOffice,Nagoya,Office Supplies,Pens,Wrap Bag,38,13,53,Regular Air,15/03/2015,3,2015
+86111,High,3044,Corporate,Santiago,Office Supplies,Accessories,Small Box,-95,10,47,Regular Air,15/03/2015,3,2015
+90344,Not Specified,388,Corporate,Canberra,Furniture,Chairs,Jumbo Drum,597,12,2716,Delivery Truck,16/03/2015,3,2015
+85852,Critical,3145,Corporate,San Francisco,Technology,Peripherals,Small Pack,715,9,1078,Regular Air,17/03/2015,3,2015
+88304,Not Specified,2577,HomeOffice,Augusta,Furniture,Furnishings,Small Pack,-272,4,120,Regular Air,18/03/2015,3,2015
+88304,Not Specified,2577,HomeOffice,Dallas,Technology,Peripherals,Small Box,-46,6,464,Regular Air,18/03/2015,3,2015
+88414,Low,1274,Corporate,Recife,Technology,Telephones,Small Box,-160,2,136,Regular Air,21/03/2015,3,2015
+87108,Medium,566,Corporate,Melbourne,Furniture,Furnishings,Small Pack,32,2,46,Regular Air,23/03/2015,3,2015
+86377,High,2397,Corporate,Augusta,Office Supplies,Storage,Large Box,-672,6,813,Express Air,24/03/2015,3,2015
+88977,Critical,2771,HomeOffice,Cheyenne,Office Supplies,Paper,Small Box,25,7,35,Regular Air,27/03/2015,3,2015
+34048,Low,698,Corporate,Munich,Furniture,Furnishings,Small Pack,-10,1,23,Regular Air,28/03/2015,3,2015
+32454,Critical,2878,Consumer,Milan,Office Supplies,Accessories,Small Box,-29,13,89,Regular Air,31/03/2015,3,2015
+88225,Not Specified,2048,Corporate,Vancouver,Office Supplies,Accessories,Small Box,-28,9,141,Regular Air,02/04/2015,4,2015
+87493,Not Specified,1551,Consumer,Cologne,Technology,Peripherals,Small Box,6,7,287,Regular Air,03/04/2015,4,2015
+89733,Medium,1262,HomeOffice,Sao Paulo,Office Supplies,Storage,Large Box,-1285,13,1033,Regular Air,04/04/2015,4,2015
+88893,Not Specified,679,Corporate,St. Petersburg,Office Supplies,Paper,Small Box,64,12,231,Regular Air,07/04/2015,4,2015
+85821,High,2410,SmallBusiness,Salt Lake City,Technology,Office Machines,Small Box,-87,12,194,Express Air,08/04/2015,4,2015
+85821,High,2410,SmallBusiness,Providence,Office Supplies,Rubber Bands,Wrap Bag,16,6,24,Regular Air,08/04/2015,4,2015
+89237,Medium,204,Corporate,Cardiff,Technology,Peripherals,Small Box,886,13,1317,Regular Air,10/04/2015,4,2015
+89237,Medium,204,Corporate,Belfast,Office Supplies,Storage,Small Box,-18,3,96,Express Air,10/04/2015,4,2015
+87608,High,1317,HomeOffice,Rio de Janeiro,Furniture,Furnishings,Small Pack,34,11,189,Regular Air,11/04/2015,4,2015
+17985,Medium,1104,HomeOffice,Sydney,Technology,Telephones,Small Pack,-129,56,1154,Regular Air,12/04/2015,4,2015
+88110,Not Specified,1131,HomeOffice,Libreville,Office Supplies,Accessories,Small Box,-36,11,45,Regular Air,12/04/2015,4,2015
+4769,Not Specified,349,HomeOffice,Birmingham,Office Supplies,Labels,Small Box,31,46,138,Regular Air,13/04/2015,4,2015
+90798,Not Specified,1597,Corporate,Tijuana,Technology,Telephones,Small Box,1035,9,1890,Regular Air,17/04/2015,4,2015
+13634,High,471,Consumer,Melbourne,Technology,Peripherals,Small Box,68,52,2085,Regular Air,18/04/2015,4,2015
+41026,Medium,1104,HomeOffice,Perth,Furniture,Chairs,Jumbo Drum,-272,9,769,Delivery Truck,19/04/2015,4,2015
+90029,Not Specified,527,HomeOffice,Perth,Furniture,Tables,Jumbo Box,590,14,3078,Delivery Truck,21/04/2015,4,2015
+24486,Medium,2645,Consumer,Munich,Technology,Peripherals,Small Pack,-31,3,25,Regular Air,22/04/2015,4,2015
+88806,Low,2007,HomeOffice,Davangere,Furniture,Furnishings,Large Box,25,14,693,Regular Air,22/04/2015,4,2015
+25697,Low,1745,Consumer,Hong Kong,Technology,Peripherals,Small Pack,-48,52,455,Regular Air,26/04/2015,4,2015
+90858,Low,1158,Consumer,San Pedro,Furniture,Furnishings,Small Box,-11,3,14,Regular Air,28/04/2015,4,2015
+86841,Medium,15,SmallBusiness,Belfast,Office Supplies,Paper,Small Box,-23,3,18,Regular Air,29/04/2015,4,2015
+86614,Low,2264,Corporate,Toronto,Office Supplies,Rubber Bands,Wrap Bag,-27,16,95,Regular Air,01/05/2015,5,2015
+89792,Medium,3048,Corporate,Santiago,Furniture,Tables,Jumbo Box,289,5,1672,Delivery Truck,01/05/2015,5,2015
+2978,Critical,9970,Corporate,Liverpool,Technology,Telephones,Small Box,1268,53,11407,Regular Air,02/05/2015,5,2015
+86371,Low,3142,Consumer,Augusta,Technology,Peripherals,Small Pack,-23,7,12,Regular Air,03/05/2015,5,2015
+89029,Critical,3186,Consumer,Montgomery,Office Supplies,Accessories,Small Box,674,2,1088,Regular Air,03/05/2015,5,2015
+88706,Not Specified,2715,Corporate,Madrid,Technology,Office Machines,Jumbo Drum,-277,3,349,Delivery Truck,04/05/2015,5,2015
+89655,High,1715,Corporate,Vancouver,Office Supplies,Paper,Small Box,422,11,631,Regular Air,06/05/2015,5,2015
+87359,High,508,Corporate,Adelaide,Office Supplies,Storage,Large Box,198,3,280,Regular Air,07/05/2015,5,2015
+90281,Not Specified,1588,Corporate,Merida,Technology,Peripherals,Small Pack,-25,3,14,Regular Air,07/05/2015,5,2015
+90299,High,3262,Consumer,Sacramento,Technology,Telephones,Small Box,-133,19,1257,Regular Air,11/05/2015,5,2015
+89366,Critical,840,Corporate,Ryazan,Furniture,Chairs,Jumbo Drum,-308,14,828,Delivery Truck,12/05/2015,5,2015
+86674,Low,1591,Corporate,Merida,Furniture,Tables,Jumbo Box,-656,16,4412,Delivery Truck,14/05/2015,5,2015
+89580,High,378,Consumer,Sheffield,Office Supplies,Rubber Bands,Wrap Bag,-21,18,36,Regular Air,17/05/2015,5,2015
+86969,High,1574,Consumer,Hong Kong,Office Supplies,Paper,Small Box,41,11,58,Regular Air,18/05/2015,5,2015
+86663,Medium,3055,Corporate,Santiago,Office Supplies,Pens,Wrap Bag,-1,2,21,Regular Air,19/05/2015,5,2015
+90828,Medium,177,SmallBusiness,Leeds,Office Supplies,Accessories,Small Box,513,13,799,Regular Air,20/05/2015,5,2015
+86664,Not Specified,3058,Corporate,Santiago,Office Supplies,Accessories,Small Box,36,6,68,Regular Air,21/05/2015,5,2015
+91231,High,1286,Corporate,Bangkok,Office Supplies,Pens,Small Pack,-26,7,152,Regular Air,21/05/2015,5,2015
+86046,Critical,1847,HomeOffice,Toronto,Office Supplies,Pens,Wrap Bag,18,9,50,Regular Air,24/05/2015,5,2015
+89899,High,3287,SmallBusiness,Richmond,Office Supplies,Paper,Small Box,-108,13,53,Regular Air,25/05/2015,5,2015
+86156,Medium,880,SmallBusiness,Ryazan,Technology,Copiers and Fax,Large Box,4609,11,6756,Regular Air,25/05/2015,5,2015
+88915,Medium,2995,SmallBusiness,Los Angeles,Furniture,Bookcases,Jumbo Box,-140,2,213,Delivery Truck,28/05/2015,5,2015
+89581,Not Specified,378,Consumer,Glasgow,Technology,Telephones,Small Pack,262,13,484,Regular Air,30/05/2015,5,2015
+86021,Critical,454,HomeOffice,Perth,Technology,Peripherals,Small Pack,-122,10,167,Express Air,31/05/2015,5,2015
+89976,Medium,2225,SmallBusiness,Mossel Bay,Office Supplies,Rubber Bands,Wrap Bag,-1,9,17,Regular Air,02/06/2015,6,2015
+86169,High,2351,Consumer,Rome,Office Supplies,Rubber Bands,Wrap Bag,-16,7,41,Regular Air,03/06/2015,6,2015
+88129,Low,544,HomeOffice,Adelaide,Office Supplies,Appliances,Medium Box,595,4,922,Express Air,03/06/2015,6,2015
+88464,Critical,1080,Corporate,Voronezh,Technology,Telephones,Small Pack,-193,17,914,Regular Air,07/06/2015,6,2015
+90839,High,292,SmallBusiness,Glasgow,Office Supplies,Storage,Small Box,-45,2,61,Regular Air,08/06/2015,6,2015
+90839,High,291,SmallBusiness,London,Office Supplies,Appliances,Small Box,503,10,781,Regular Air,08/06/2015,6,2015
+91012,Medium,1994,SmallBusiness,Davangere,Office Supplies,Storage,Small Box,804,18,2649,Regular Air,10/06/2015,6,2015
+24519,Critical,1106,Consumer,Cairo,Office Supplies,Accessories,Small Box,-59,36,197,Regular Air,11/06/2015,6,2015
+54592,Low,1217,SmallBusiness,Buenos Aires,Furniture,Furnishings,Small Box,-129,56,240,Regular Air,12/06/2015,6,2015
+87868,Low,2108,HomeOffice,Hong Kong,Technology,Copiers and Fax,Large Box,227,1,724,Regular Air,14/06/2015,6,2015
+88955,High,1312,Corporate,Rio de Janeiro,Office Supplies,Pens,Wrap Bag,26,14,39,Regular Air,15/06/2015,6,2015
+88053,High,217,HomeOffice,London,Office Supplies,Paper,Wrap Bag,29,18,55,Express Air,16/06/2015,6,2015
+86404,High,1462,HomeOffice,Rio de Janeiro,Office Supplies,Envelopes,Small Box,79,13,120,Regular Air,18/06/2015,6,2015
+89410,High,1383,Consumer,Rio de Janeiro,Office Supplies,Paper,Small Box,-45,11,71,Regular Air,19/06/2015,6,2015
+88991,Medium,2342,Corporate,Paris,Technology,Telephones,Small Box,1322,11,2391,Regular Air,20/06/2015,6,2015
+59812,Medium,2403,Consumer,Chicago,Furniture,Furnishings,Small Pack,-18,3,38,Regular Air,22/06/2015,6,2015
+90572,Not Specified,2001,HomeOffice,Davangere,Office Supplies,Storage,Large Box,-454,3,203,Regular Air,22/06/2015,6,2015
+87400,High,2910,HomeOffice,Marseille,Furniture,Chairs,Large Box,2096,10,3286,Regular Air,22/06/2015,6,2015
+86361,Low,913,Corporate,Voronezh,Office Supplies,Accessories,Small Box,579,19,1228,Regular Air,25/06/2015,6,2015
+87170,Not Specified,2778,Consumer,San Francisco,Technology,Telephones,Small Pack,300,7,401,Regular Air,26/06/2015,6,2015
+89838,Low,3268,Corporate,Lincoln,Office Supplies,Rubber Bands,Wrap Bag,24,15,49,Express Air,28/06/2015,6,2015
+87685,Medium,2697,HomeOffice,Stockholm,Office Supplies,Pens,Wrap Bag,-91,18,187,Regular Air,30/06/2015,6,2015
+89404,High,961,HomeOffice,Moscow,Furniture,Tables,Jumbo Box,523,7,2696,Delivery Truck,01/07/2015,7,2015
+90496,Critical,918,Consumer,Yaroslavl,Office Supplies,Paper,Small Box,-102,7,45,Regular Air,02/07/2015,7,2015
+22727,Not Specified,2107,Corporate,Chicago,Office Supplies,Paper,Small Box,-116,61,388,Regular Air,04/07/2015,7,2015
+90356,High,482,Corporate,Adelaide,Furniture,Tables,Jumbo Box,-139,2,309,Delivery Truck,04/07/2015,7,2015
+86512,Not Specified,3224,SmallBusiness,Salem,Furniture,Furnishings,Medium Box,-53,13,67,Regular Air,04/07/2015,7,2015
+88853,High,1531,Consumer,Rio de Janeiro,Technology,Telephones,Small Pack,-24,8,440,Regular Air,07/07/2015,7,2015
+86201,Not Specified,3039,Corporate,Shanghai,Office Supplies,Storage,Medium Box,-69,6,48,Regular Air,08/07/2015,7,2015
+90395,Low,2161,Corporate,Merida,Furniture,Chairs,Jumbo Drum,1020,11,1869,Delivery Truck,10/07/2015,7,2015
+86334,Medium,1946,HomeOffice,Bogota,Office Supplies,Pens,Wrap Bag,12,10,41,Regular Air,13/07/2015,7,2015
+87392,Not Specified,294,Corporate,Liverpool,Technology,Office Machines,Jumbo Drum,15,3,276,Delivery Truck,14/07/2015,7,2015
+85838,High,2067,Corporate,Victoria,Furniture,Furnishings,Medium Box,648,9,950,Regular Air,15/07/2015,7,2015
+88111,Not Specified,1131,Corporate,Las Plumas,Office Supplies,Labels,Small Box,31,13,49,Regular Air,18/07/2015,7,2015
+12897,Not Specified,1129,Corporate,Cairo,Office Supplies,Paper,Small Box,-117,42,273,Express Air,18/07/2015,7,2015
+87871,High,2109,Corporate,Hong Kong,Office Supplies,Scissors,Small Pack,-22,14,182,Express Air,19/07/2015,7,2015
+48288,Medium,2491,Consumer,Rome,Furniture,Bookcases,Jumbo Box,-562,34,4324,Delivery Truck,22/07/2015,7,2015
+91155,Low,559,HomeOffice,Hobart,Technology,Peripherals,Small Pack,392,14,614,Regular Air,23/07/2015,7,2015
+29152,Low,272,SmallBusiness,Sheffield,Office Supplies,Storage,Small Box,-137,18,125,Regular Air,23/07/2015,7,2015
+86069,High,2657,Consumer,Santiago,Office Supplies,Paper,Small Box,-20,15,103,Regular Air,25/07/2015,7,2015
+19041,Low,1413,Corporate,Sao Paulo,Office Supplies,Appliances,Small Box,512,58,2526,Regular Air,26/07/2015,7,2015
+89756,Low,1334,SmallBusiness,Rio de Janeiro,Office Supplies,Storage,Large Box,-507,5,671,Regular Air,27/07/2015,7,2015
+90862,High,2426,SmallBusiness,Riyadh,Office Supplies,Paper,Wrap Bag,68,13,106,Regular Air,30/07/2015,7,2015
+88936,High,381,Corporate,Canberra,Office Supplies,Paper,Wrap Bag,12,7,36,Regular Air,31/07/2015,7,2015
+87501,Critical,1550,SmallBusiness,Dortmund,Office Supplies,Appliances,Jumbo Drum,2691,17,4863,Delivery Truck,02/08/2015,8,2015
+90992,Low,3325,Consumer,San Francisco,Office Supplies,Pens,Wrap Bag,-39,11,36,Regular Air,05/08/2015,8,2015
+36196,Not Specified,699,Consumer,Mossel Bay,Technology,Peripherals,Small Pack,-37,14,68,Regular Air,06/08/2015,8,2015
+88496,Medium,1546,Corporate,Cologne,Technology,Peripherals,Small Box,39,8,785,Regular Air,07/08/2015,8,2015
+91047,High,1648,Corporate,Bangalore,Office Supplies,Accessories,Small Box,199,15,289,Regular Air,10/08/2015,8,2015
+91177,Critical,540,SmallBusiness,Sydney,Furniture,Furnishings,Large Box,74,11,471,Regular Air,10/08/2015,8,2015
+91104,Critical,2148,HomeOffice,Cancun,Technology,Telephones,Small Box,-226,10,662,Regular Air,11/08/2015,8,2015
+87542,High,3396,Corporate,Bordeaux,Furniture,Chairs,Large Box,3362,22,5013,Regular Air,16/08/2015,8,2015
+88374,Not Specified,1012,HomeOffice,Ryazan,Office Supplies,Accessories,Small Box,66,5,104,Regular Air,17/08/2015,8,2015
+87320,Critical,2854,Corporate,Shanghai,Office Supplies,Accessories,Small Box,-32,6,20,Regular Air,17/08/2015,8,2015
+87448,Medium,1902,Consumer,Toronto,Office Supplies,Paper,Small Box,-4,3,63,Regular Air,20/08/2015,8,2015
+90365,Low,735,Consumer,Perth,Office Supplies,Accessories,Small Box,11,11,41,Regular Air,21/08/2015,8,2015
+86775,Medium,1115,Consumer,Las Plumas,Office Supplies,Paper,Small Box,-25,14,68,Regular Air,21/08/2015,8,2015
+88199,High,618,Consumer,Canberra,Furniture,Bookcases,Jumbo Box,2094,17,4323,Delivery Truck,25/08/2015,8,2015
+86623,High,238,Corporate,Edinburgh,Office Supplies,Paper,Small Box,-11,5,33,Regular Air,25/08/2015,8,2015
+88072,Critical,2752,Consumer,Lincoln,Office Supplies,Appliances,Small Box,-11,21,1297,Regular Air,26/08/2015,8,2015
+86970,High,1575,Consumer,Hong Kong,Technology,Office Machines,Jumbo Drum,-20,12,6218,Delivery Truck,31/08/2015,8,2015
+86962,Not Specified,1826,Corporate,Cape Town,Furniture,Tables,Jumbo Box,-131,1,369,Delivery Truck,31/08/2015,8,2015
+88286,Critical,2859,Corporate,Shanghai,Technology,Copiers and Fax,Large Box,417,5,3103,Regular Air,02/09/2015,9,2015
+85839,Critical,2067,Corporate,Toronto,Technology,Telephones,Small Box,675,18,1659,Regular Air,04/09/2015,9,2015
+88672,Low,772,SmallBusiness,Lipetsk,Furniture,Furnishings,Small Pack,-25,11,108,Regular Air,04/09/2015,9,2015
+86675,High,1592,HomeOffice,Tijuana,Technology,Telephones,Wrap Bag,-85,22,463,Express Air,06/09/2015,9,2015
+85910,Not Specified,811,Corporate,St. Petersburg,Technology,Telephones,Small Box,485,13,2544,Regular Air,09/09/2015,9,2015
+90424,High,1538,Consumer,Sao Paulo,Office Supplies,Pens,Small Pack,96,18,591,Regular Air,10/09/2015,9,2015
+85983,High,3337,Consumer,San Francisco,Technology,Telephones,Small Box,241,5,341,Express Air,11/09/2015,9,2015
+91249,High,1339,HomeOffice,Rio de Janeiro,Office Supplies,Paper,Small Box,-39,2,46,Regular Air,12/09/2015,9,2015
+89793,Not Specified,3050,Corporate,Santiago,Furniture,Chairs,Jumbo Drum,-75,4,143,Delivery Truck,14/09/2015,9,2015
+88739,Medium,1390,SmallBusiness,Rio de Janeiro,Furniture,Tables,Jumbo Drum,27,10,1530,Delivery Truck,15/09/2015,9,2015
+87825,Medium,1611,Consumer,Tijuana,Office Supplies,Envelopes,Small Box,-15,9,84,Regular Air,15/09/2015,9,2015
+90086,Critical,2133,Corporate,Tijuana,Technology,Office Machines,Medium Box,40,20,295,Regular Air,16/09/2015,9,2015
+90810,High,901,Consumer,Ryazan,Office Supplies,Accessories,Small Box,-35,6,44,Regular Air,19/09/2015,9,2015
+91369,High,649,HomeOffice,Sydney,Office Supplies,Storage,Small Box,-54,3,49,Regular Air,22/09/2015,9,2015
+91579,Not Specified,46,HomeOffice,Manchester,Technology,Peripherals,Small Box,21,3,98,Regular Air,23/09/2015,9,2015
+86023,Low,453,HomeOffice,Canberra,Furniture,Tables,Large Box,-605,9,1989,Regular Air,24/09/2015,9,2015
+90261,High,757,HomeOffice,Perth,Technology,Peripherals,Small Pack,20,11,104,Regular Air,26/09/2015,9,2015
+14884,High,2303,Corporate,Sao Paulo,Technology,Telephones,Small Box,-291,12,1143,Regular Air,27/09/2015,9,2015
+90968,Medium,2329,HomeOffice,Hong Kong,Technology,Telephones,Small Pack,877,17,1527,Regular Air,28/09/2015,9,2015
+88323,Critical,2499,SmallBusiness,Dnipropetrovsk,Office Supplies,Paper,Small Box,-84,12,74,Regular Air,30/09/2015,9,2015
+90636,Critical,1888,HomeOffice,Vancouver,Furniture,Tables,Jumbo Box,-809,13,4311,Delivery Truck,01/10/2015,10,2015
+86070,Low,2657,Corporate,Santiago,Office Supplies,Pens,Wrap Bag,-29,22,37,Regular Air,02/10/2015,10,2015
+87921,High,2542,HomeOffice,Columbus,Office Supplies,Pens,Wrap Bag,5,20,59,Regular Air,03/10/2015,10,2015
+89844,Critical,3092,Corporate,Albany,Technology,Peripherals,Small Pack,-12,1,15,Regular Air,04/10/2015,10,2015
+87386,Not Specified,2607,Corporate,Swellendam,Office Supplies,Storage,Small Box,-18,4,55,Regular Air,05/10/2015,10,2015
+90251,Critical,1619,Consumer,Cancun,Office Supplies,Pens,Wrap Bag,46,11,72,Regular Air,08/10/2015,10,2015
+88863,Critical,1963,Consumer,Merida,Furniture,Furnishings,Large Box,-36,2,86,Express Air,09/10/2015,10,2015
+35649,Medium,1821,Consumer,New York City,Office Supplies,Accessories,Small Box,3,18,82,Regular Air,09/10/2015,10,2015
+89074,Low,3020,Corporate,Riyadh,Office Supplies,Rubber Bands,Wrap Bag,-97,21,41,Regular Air,10/10/2015,10,2015
+86706,Not Specified,2250,HomeOffice,Victoria,Office Supplies,Storage,Small Box,39,7,284,Regular Air,12/10/2015,10,2015
+89531,Critical,153,SmallBusiness,Nottingham,Office Supplies,Paper,Wrap Bag,30,13,125,Regular Air,13/10/2015,10,2015
+90209,Medium,983,SmallBusiness,Ryazan,Furniture,Furnishings,Small Pack,113,8,161,Regular Air,18/10/2015,10,2015
+89384,Not Specified,2085,SmallBusiness,Toronto,Office Supplies,Paper,Small Box,53,5,64,Regular Air,19/10/2015,10,2015
+87516,Critical,2947,Consumer,Nantes,Technology,Telephones,Small Pack,-46,11,239,Regular Air,20/10/2015,10,2015
+87850,High,1043,SmallBusiness,Yaounde,Technology,Peripherals,Small Pack,48,7,163,Regular Air,21/10/2015,10,2015
+86930,Critical,2896,HomeOffice,Kharkiv,Technology,Telephones,Small Pack,-85,2,108,Regular Air,22/10/2015,10,2015
+91162,Low,629,SmallBusiness,Melbourne,Office Supplies,Paper,Wrap Bag,145,21,210,Express Air,22/10/2015,10,2015
+90758,Critical,3283,Corporate,Richmond,Office Supplies,Labels,Small Box,-73,9,34,Regular Air,26/10/2015,10,2015
+90456,Not Specified,862,Corporate,St. Petersburg,Office Supplies,Storage,Small Box,312,9,1221,Regular Air,28/10/2015,10,2015
+88708,High,2714,Corporate,Kiev,Technology,Peripherals,Small Box,3016,18,4882,Express Air,29/10/2015,10,2015
+50726,Low,2867,Corporate,Santiago,Office Supplies,Labels,Small Box,28,41,166,Express Air,31/10/2015,10,2015
+88143,Critical,2470,HomeOffice,Tokyo,Office Supplies,Labels,Small Box,-6,5,22,Regular Air,31/10/2015,10,2015
+88855,High,1531,Consumer,Sao Paulo,Furniture,Furnishings,Large Box,837,12,2392,Regular Air,01/11/2015,11,2015
+90138,High,1091,SmallBusiness,Bangkok,Furniture,Tables,Jumbo Drum,7377,38,13594,Delivery Truck,05/11/2015,11,2015
+86615,Not Specified,2265,SmallBusiness,Toronto,Technology,Telephones,Small Pack,564,22,1209,Regular Air,06/11/2015,11,2015
+90370,High,500,Corporate,Hobart,Technology,Peripherals,Small Pack,315,27,542,Regular Air,07/11/2015,11,2015
+86532,Not Specified,2554,HomeOffice,El Paso,Technology,Telephones,Small Box,41,1,66,Regular Air,10/11/2015,11,2015
+86942,Critical,2017,Corporate,Swellendam,Office Supplies,Appliances,Small Box,7,26,275,Regular Air,10/11/2015,11,2015
+91440,Low,3359,HomeOffice,Philadelphia,Technology,Telephones,Small Box,660,18,2756,Express Air,10/11/2015,11,2015
+90913,High,552,Corporate,Sydney,Furniture,Tables,Jumbo Box,187,40,16758,Delivery Truck,13/11/2015,11,2015
+88097,Low,1561,Corporate,Barcelona,Office Supplies,Rubber Bands,Wrap Bag,2,26,116,Express Air,14/11/2015,11,2015
+87762,Low,1980,Corporate,Tijuana,Technology,Copiers and Fax,Large Box,115,14,8155,Regular Air,16/11/2015,11,2015
+91295,Low,2153,HomeOffice,Merida,Office Supplies,Accessories,Small Box,2,32,164,Regular Air,17/11/2015,11,2015
+86676,Medium,1590,Corporate,Merida,Technology,Telephones,Small Box,1184,25,2846,Regular Air,18/11/2015,11,2015
+90287,High,1831,Corporate,Sao Paulo,Furniture,Furnishings,Small Box,28,36,344,Regular Air,18/11/2015,11,2015
+89422,Low,3073,Corporate,Stockholm,Technology,Peripherals,Small Box,25,43,2042,Regular Air,19/11/2015,11,2015
+91527,Low,324,Corporate,Birmingham,Technology,Office Machines,Jumbo Drum,8885,41,13247,Delivery Truck,19/11/2015,11,2015
+90920,Medium,375,SmallBusiness,Cardiff,Office Supplies,Envelopes,Small Box,187,16,239,Express Air,20/11/2015,11,2015
+89616,Medium,2332,Consumer,Beijing,Technology,Copiers and Fax,Large Box,5932,32,9118,Regular Air,22/11/2015,11,2015
+87544,High,3397A,SmallBusiness,Albany,Office Supplies,Accessories,Small Box,11043,42,16337,Regular Air,25/11/2015,11,2015
+89049,Low,2977,SmallBusiness,Santa Fe,Technology,Office Machines,Jumbo Drum,458,11,4722,Delivery Truck,26/11/2015,11,2015
+87627,Critical,2931,Corporate,Glendale,Furniture,Furnishings,Small Box,3,3,30,Express Air,28/11/2015,11,2015
+87545,Medium,3400,Corporate,Augusta,Office Supplies,Paper,Wrap Bag,3,8,64,Regular Air,29/11/2015,11,2015
+87379,Not Specified,1883,HomeOffice,Victoria,Office Supplies,Pens,Wrap Bag,1,5,20,Regular Air,30/11/2015,11,2015
+90701,Low,431,Corporate,Adelaide,Technology,Telephones,Small Box,649,17,1148,Regular Air,03/12/2015,12,2015
+90282,Critical,1587,Corporate,Tijuana,Office Supplies,Pens,Small Pack,334,20,510,Regular Air,04/12/2015,12,2015
+87352,High,360,SmallBusiness,Birmingham,Office Supplies,Paper,Wrap Bag,24,7,37,Regular Air,05/12/2015,12,2015
+91148,Medium,605,HomeOffice,Adelaide,Office Supplies,Accessories,Small Box,-20,1,25,Regular Air,07/12/2015,12,2015
+86405,Critical,1463,HomeOffice,Recife,Furniture,Furnishings,Small Box,321,25,629,Regular Air,07/12/2015,12,2015
+90113,Critical,2274,Corporate,Toronto,Technology,Office Machines,Medium Box,40,20,376,Regular Air,07/12/2015,12,2015
+86170,Not Specified,2352,Consumer,Madison,Furniture,Bookcases,Jumbo Box,-119,8,481,Delivery Truck,10/12/2015,12,2015
+22848,Not Specified,2491,HomeOffice,Paris,Office Supplies,Appliances,Large Box,-148,40,187,Regular Air,10/12/2015,12,2015
+89249,Not Specified,74,SmallBusiness,Birmingham,Office Supplies,Appliances,Medium Box,22,7,146,Regular Air,10/12/2015,12,2015
+86963,Low,1827,Corporate,Standerton,Office Supplies,Storage,Small Box,2763,25,4050,Regular Air,14/12/2015,12,2015
+91505,Low,2276,Consumer,Victoria,Office Supplies,Pens,Small Pack,293,16,735,Express Air,16/12/2015,12,2015
+86778,Critical,1119,HomeOffice,Las Plumas,Furniture,Tables,Jumbo Box,-59,17,530,Delivery Truck,16/12/2015,12,2015
+87838,Low,2666,Corporate,Aomori,Furniture,Chairs,Jumbo Drum,193,18,910,Delivery Truck,18/12/2015,12,2015
+91312,Medium,2503,HomeOffice,Barcelona,Office Supplies,Paper,Small Box,314,10,456,Regular Air,18/12/2015,12,2015
+87183,High,93,Corporate,Cardiff,Furniture,Tables,Jumbo Box,-460,25,3944,Delivery Truck,18/12/2015,12,2015
+86210,Critical,3297,Corporate,Nantes,Furniture,Tables,Jumbo Box,17,18,275,Delivery Truck,21/12/2015,12,2015
+91292,Low,2365,Corporate,Los Angeles,Office Supplies,Storage,Large Box,-429,15,921,Regular Air,21/12/2015,12,2015
+88131,Not Specified,542,HomeOffice,Hobart,Office Supplies,Pens,Wrap Bag,17,19,56,Regular Air,21/12/2015,12,2015
+90199,Medium,8,HomeOffice,Hobart,Furniture,Bookcases,Jumbo Box,-153,5,684,Delivery Truck,25/12/2015,12,2015
+36356,Medium,699,Consumer,Riyadh,Office Supplies,Labels,Small Box,46,66,240,Regular Air,25/12/2015,12,2015
+90245,Not Specified,819,SmallBusiness,Kaliningrad,Office Supplies,Pens,Small Pack,529,25,1038,Express Air,27/12/2015,12,2015
+86211,Low,3291,Corporate,Albany,Technology,Peripherals,Small Pack,31,18,142,Express Air,30/12/2015,12,2015
+87698,Not Specified,2301,Corporate,Bogota,Office Supplies,Paper,Small Box,74,20,104,Regular Air,30/12/2015,12,2015
+90088,Low,2131,HomeOffice,Cancun,Office Supplies,Appliances,Small Box,207,12,700,Regular Air,31/12/2015,12,2015
+89352,Critical,719,Corporate,Melbourne,Office Supplies,Envelopes,Small Box,131,13,192,Regular Air,03/01/2016,1,2016
+90680,Medium,1665,Consumer,Cape Town,Technology,Office Machines,Medium Box,-1481,1,1861,Regular Air,03/01/2016,1,2016
+89927,Critical,81,SmallBusiness,London,Office Supplies,Pens,Wrap Bag,10,5,15,Regular Air,04/01/2016,1,2016
+88216,High,1379,HomeOffice,Rio de Janeiro,Office Supplies,Paper,Small Box,50,11,129,Regular Air,05/01/2016,1,2016
+88699,Low,2244,Corporate,Victoria,Office Supplies,Pens,Wrap Bag,-5,2,23,Regular Air,05/01/2016,1,2016
+87903,High,2819,HomeOffice,Riyadh,Office Supplies,Paper,Small Box,139,6,196,Regular Air,05/01/2016,1,2016
+87360,Low,505,Corporate,Melbourne,Office Supplies,Accessories,Small Box,-107,11,56,Regular Air,07/01/2016,1,2016
+91358,Not Specified,1061,SmallBusiness,Moscow,Office Supplies,Accessories,Small Box,-23,6,53,Regular Air,08/01/2016,1,2016
+88810,High,2007,Corporate,Gurgaon,Furniture,Furnishings,Large Box,-71,4,62,Regular Air,08/01/2016,1,2016
+88778,Critical,2984,Corporate,Des Moines,Office Supplies,Envelopes,Small Box,920,9,1408,Regular Air,10/01/2016,1,2016
+90053,High,804,SmallBusiness,Ryazan,Furniture,Tables,Jumbo Box,-3,12,1912,Delivery Truck,10/01/2016,1,2016
+90213,High,991,SmallBusiness,Yaroslavl,Furniture,Chairs,Jumbo Drum,-95,1,119,Delivery Truck,11/01/2016,1,2016
+89189,Critical,2388,SmallBusiness,Albany,Furniture,Furnishings,Small Box,-2,6,134,Regular Air,12/01/2016,1,2016
+86073,Not Specified,2658,Corporate,Santiago,Furniture,Bookcases,Jumbo Box,242,6,342,Delivery Truck,13/01/2016,1,2016
+90067,Low,510,Corporate,Sydney,Technology,Office Machines,Jumbo Drum,-118,1,149,Delivery Truck,13/01/2016,1,2016
+88456,Medium,2400,Consumer,San Diego,Office Supplies,Storage,Small Box,-130,10,108,Regular Air,16/01/2016,1,2016
+88020,Medium,2620,Corporate,Riyadh,Office Supplies,Envelopes,Small Box,4,5,36,Regular Air,17/01/2016,1,2016
+88811,High,2007,HomeOffice,Tumkur,Office Supplies,Accessories,Small Box,39,8,72,Regular Air,18/01/2016,1,2016
+90426,Not Specified,1537,Consumer,Rio de Janeiro,Office Supplies,Storage,Large Box,-663,4,431,Regular Air,19/01/2016,1,2016
+87051,Low,3001,Corporate,Riyadh,Technology,Office Machines,Medium Box,125,8,199,Regular Air,20/01/2016,1,2016
+87361,Medium,505,Corporate,Melbourne,Technology,Telephones,Small Pack,270,13,474,Regular Air,21/01/2016,1,2016
+89768,Critical,287,SmallBusiness,Nottingham,Technology,Peripherals,Small Box,-23,1,30,Regular Air,22/01/2016,1,2016
+88375,Not Specified,1009,HomeOffice,Moscow,Office Supplies,Appliances,Small Box,-44,1,64,Regular Air,23/01/2016,1,2016
+86036,Critical,2642,HomeOffice,Shanghai,Office Supplies,Paper,Small Box,301,8,458,Regular Air,24/01/2016,1,2016
+89907,Low,3081,HomeOffice,Salt Lake City,Office Supplies,Pens,Wrap Bag,14,12,20,Regular Air,26/01/2016,1,2016
+41760,Low,1228,SmallBusiness,Yaounde,Furniture,Furnishings,Small Box,-206,24,253,Regular Air,27/01/2016,1,2016
+89815,Medium,3128,Corporate,Augusta,Technology,Peripherals,Small Pack,13,9,88,Regular Air,27/01/2016,1,2016
+91139,Medium,3022,Corporate,Riyadh,Technology,Telephones,Small Pack,-27,1,35,Regular Air,30/01/2016,1,2016
+89289,Critical,635,Corporate,Melbourne,Office Supplies,Pens,Small Pack,-34,9,199,Regular Air,30/01/2016,1,2016
+86274,Critical,256,HomeOffice,Liverpool,Office Supplies,Appliances,Medium Box,-42,2,149,Regular Air,31/01/2016,1,2016
+88817,Medium,2650,Corporate,Shanghai,Office Supplies,Paper,Small Box,-26,5,33,Regular Air,02/02/2016,2,2016
+90895,Medium,2118,HomeOffice,Hong Kong,Office Supplies,Rubber Bands,Wrap Bag,0,9,17,Regular Air,02/02/2016,2,2016
+89551,Not Specified,886,Consumer,St. Petersburg,Furniture,Furnishings,Large Box,-15,6,20,Regular Air,05/02/2016,2,2016
+90794,Medium,1722,Corporate,Beijing,Office Supplies,Storage,Small Box,-8,4,72,Regular Air,07/02/2016,2,2016
+86241,High,3276,SmallBusiness,Austin,Office Supplies,Accessories,Small Box,37,11,74,Regular Air,07/02/2016,2,2016
+90794,Medium,1722,Corporate,Toronto,Office Supplies,Paper,Small Box,-64,12,80,Regular Air,08/02/2016,2,2016
+29507,Low,2882,Consumer,Stockholm,Technology,Telephones,Small Box,270,41,1480,Regular Air,09/02/2016,2,2016
+89126,Not Specified,1209,HomeOffice,Las Plumas,Technology,Telephones,Small Box,-54,1,68,Regular Air,09/02/2016,2,2016
+91055,High,721,Corporate,Perth,Technology,Peripherals,Small Box,-126,5,167,Regular Air,10/02/2016,2,2016
+90835,High,1113,Corporate,Bangkok,Technology,Telephones,Small Pack,-65,2,69,Regular Air,12/02/2016,2,2016
+87479,Medium,3375,HomeOffice,Columbia,Office Supplies,Appliances,Small Box,402,8,636,Regular Air,12/02/2016,2,2016
+89628,Not Specified,1031,SmallBusiness,Tel Aviv,Office Supplies,Accessories,Small Box,26,1,1815,Regular Air,13/02/2016,2,2016
+89380,Low,1234,Consumer,San Pedro,Technology,Peripherals,Small Pack,83,3,126,Regular Air,15/02/2016,2,2016
+88153,Low,348,Corporate,Leeds,Office Supplies,Pens,Wrap Bag,-7,1,11,Regular Air,15/02/2016,2,2016
+87101,Low,3163,Corporate,Philadelphia,Office Supplies,Accessories,Small Box,-3,7,35,Regular Air,16/02/2016,2,2016
+87716,Low,49,Corporate,Edinburgh,Technology,Telephones,Small Box,378,10,696,Regular Air,17/02/2016,2,2016
+86625,High,236,Corporate,Manchester,Office Supplies,Appliances,Small Box,354,9,543,Regular Air,18/02/2016,2,2016
+87961,Low,639,Consumer,Adelaide,Technology,Telephones,Small Pack,-42,1,53,Regular Air,18/02/2016,2,2016
+90467,Low,1515,Corporate,Rio de Janeiro,Office Supplies,Accessories,Small Box,-83,4,86,Regular Air,23/02/2016,2,2016
+86533,Low,2554,HomeOffice,San Francisco,Office Supplies,Accessories,Small Box,24,9,109,Regular Air,23/02/2016,2,2016
+89210,Medium,1869,Consumer,Victoria,Furniture,Chairs,Jumbo Drum,2719,8,4060,Delivery Truck,24/02/2016,2,2016
+14916,Low,553,Corporate,Córdoba,Technology,Telephones,Small Box,20,16,1978,Express Air,27/02/2016,2,2016
+50721,High,1630,HomeOffice,Vijayawada,Office Supplies,Accessories,Small Box,3665,33,10197,Regular Air,27/02/2016,2,2016
+86918,Not Specified,1180,HomeOffice,Córdoba,Technology,Peripherals,Small Pack,160,7,235,Regular Air,27/02/2016,2,2016
+86335,Low,1946,HomeOffice,Bogota,Technology,Peripherals,Small Box,217,4,333,Express Air,01/03/2016,3,2016
+88446,High,1735,SmallBusiness,Hong Kong,Office Supplies,Pens,Small Pack,-25,1,21,Regular Air,01/03/2016,3,2016
+58917,High,1733,SmallBusiness,Hong Kong,Technology,Copiers and Fax,Large Box,6067,27,14104,Regular Air,01/03/2016,3,2016
+87362,Critical,507,Corporate,Canberra,Technology,Peripherals,Small Pack,50,10,238,Regular Air,03/03/2016,3,2016
+37188,Critical,604,HomeOffice,Recife,Office Supplies,Paper,Small Box,-119,24,121,Express Air,03/03/2016,3,2016
+86391,Medium,392,Corporate,Perth,Office Supplies,Paper,Small Box,2,2,41,Regular Air,04/03/2016,3,2016
+90037,Medium,20,SmallBusiness,London,Office Supplies,Paper,Small Box,-40,1,33,Regular Air,06/03/2016,3,2016
+89966,Not Specified,164,HomeOffice,Glasgow,Furniture,Bookcases,Jumbo Box,-502,8,1236,Delivery Truck,07/03/2016,3,2016
+90622,Low,1718,Consumer,Toronto,Office Supplies,Envelopes,Small Box,-57,8,72,Regular Air,07/03/2016,3,2016
+87225,High,1126,Consumer,Yaounde,Office Supplies,Paper,Small Box,-45,9,52,Express Air,09/03/2016,3,2016
+85855,Low,3145,Corporate,San Francisco,Technology,Office Machines,Jumbo Drum,-336,2,4952,Delivery Truck,10/03/2016,3,2016
+87950,Medium,67,Corporate,Edinburgh,Office Supplies,Accessories,Small Box,-16,5,20,Regular Air,11/03/2016,3,2016
+87746,Medium,479,SmallBusiness,Adelaide,Furniture,Tables,Jumbo Box,33,11,495,Delivery Truck,13/03/2016,3,2016
+88441,Not Specified,3201,Consumer,Sacramento,Technology,Peripherals,Small Box,50,13,443,Express Air,14/03/2016,3,2016
+88574,Not Specified,853,SmallBusiness,Yaroslavl,Office Supplies,Accessories,Small Box,38,5,55,Regular Air,14/03/2016,3,2016
+89317,Medium,3098,Consumer,Madison,Office Supplies,Storage,Large Box,393,9,2495,Regular Air,16/03/2016,3,2016
+322,Critical,1402,Corporate,Chicago,Technology,Telephones,Small Box,249,20,3029,Regular Air,17/03/2016,3,2016
+90075,Not Specified,1054,Corporate,Tel Aviv,Furniture,Tables,Jumbo Box,-64,5,80,Delivery Truck,17/03/2016,3,2016
+85922,High,2631,Corporate,Riyadh,Technology,Peripherals,Small Box,-103,2,84,Regular Air,19/03/2016,3,2016
+89532,Low,152,HomeOffice,Edinburgh,Technology,Peripherals,Small Box,-144,6,260,Express Air,20/03/2016,3,2016
+90300,Medium,3261,Consumer,Cheyenne,Technology,Peripherals,Small Box,104,7,284,Regular Air,21/03/2016,3,2016
+90981,Low,1103,HomeOffice,Istanbul,Technology,Telephones,Small Box,19,3,201,Regular Air,22/03/2016,3,2016
+90778,High,1796,Corporate,Ahmedabad,Technology,Office Machines,Jumbo Box,-769,1,3511,Delivery Truck,22/03/2016,3,2016
+89488,Not Specified,2741,SmallBusiness,Cheyenne,Office Supplies,Appliances,Medium Box,-197,13,276,Regular Air,23/03/2016,3,2016
+32869,Medium,698,Corporate,Seattle,Office Supplies,Pens,Wrap Bag,-7,2,14,Regular Air,26/03/2016,3,2016
+89416,Medium,3009,HomeOffice,Riyadh,Technology,Telephones,Small Box,631,9,1089,Regular Air,26/03/2016,3,2016
+91009,High,503,SmallBusiness,Perth,Office Supplies,Appliances,Jumbo Drum,245,7,1310,Delivery Truck,27/03/2016,3,2016
+86256,High,546,Corporate,Adelaide,Office Supplies,Envelopes,Small Box,-83,7,61,Express Air,27/03/2016,3,2016
+89489,Medium,2741,SmallBusiness,Salem,Office Supplies,Accessories,Small Box,19,6,28,Regular Air,28/03/2016,3,2016
+86444,Medium,609,Corporate,Canberra,Office Supplies,Paper,Small Box,-34,7,43,Regular Air,28/03/2016,3,2016
+90097,Critical,2574,Consumer,Burlington,Technology,Telephones,Small Box,-159,3,201,Regular Air,29/03/2016,3,2016
+90443,High,754,Corporate,Canberra,Office Supplies,Storage,Small Box,-145,1,211,Regular Air,30/03/2016,3,2016
+86452,Not Specified,3192,Corporate,Bordeaux,Office Supplies,Accessories,Small Box,-32,6,66,Express Air,31/03/2016,3,2016
+86616,Not Specified,2265,Corporate,Victoria,Office Supplies,Accessories,Small Box,-50,5,75,Regular Air,03/04/2016,4,2016
+86873,Critical,797,SmallBusiness,Kaliningrad,Office Supplies,Accessories,Small Box,51,6,197,Regular Air,04/04/2016,4,2016
+87142,Critical,930,SmallBusiness,Kaliningrad,Furniture,Furnishings,Medium Box,-132,10,58,Regular Air,05/04/2016,4,2016
+86944,Not Specified,2018,HomeOffice,Mossel Bay,Furniture,Furnishings,Wrap Bag,30,8,101,Express Air,08/04/2016,4,2016
+87354,Critical,367,SmallBusiness,Edinburgh,Furniture,Bookcases,Jumbo Box,-863,12,827,Delivery Truck,08/04/2016,4,2016
+91171,Medium,2588,HomeOffice,Marseille,Technology,Peripherals,Small Pack,250,12,366,Regular Air,08/04/2016,4,2016
+88466,Critical,1083,Corporate,Cairo,Technology,Office Machines,Jumbo Drum,-538,1,2691,Delivery Truck,10/04/2016,4,2016
+88762,Low,2791,Corporate,Madison,Technology,Office Machines,Medium Box,800,8,1173,Regular Air,10/04/2016,4,2016
+87313,Low,98,HomeOffice,Manchester,Office Supplies,Paper,Small Box,-59,4,25,Express Air,11/04/2016,4,2016
+87204,Not Specified,1727,SmallBusiness,Beijing,Technology,Telephones,Small Box,324,8,557,Regular Air,12/04/2016,4,2016
+87370,Medium,85,Consumer,Nottingham,Furniture,Tables,Jumbo Box,-1287,5,2675,Delivery Truck,13/04/2016,4,2016
+86783,High,1119,HomeOffice,Istanbul,Technology,Peripherals,Small Box,294,10,414,Express Air,13/04/2016,4,2016
+89816,High,3128,SmallBusiness,El Paso,Office Supplies,Paper,Small Box,25,3,95,Regular Air,15/04/2016,4,2016
+90887,Critical,1241,SmallBusiness,Bangkok,Office Supplies,Paper,Wrap Bag,5,3,23,Regular Air,16/04/2016,4,2016
+86880,Not Specified,2010,Corporate,Gurgaon,Office Supplies,Accessories,Small Box,1845,3,2755,Regular Air,17/04/2016,4,2016
+90318,Not Specified,2216,Corporate,Cape Town,Technology,Peripherals,Small Pack,-86,13,60,Regular Air,19/04/2016,4,2016
+5986,High,1282,SmallBusiness,Singapore,Technology,Peripherals,Small Pack,-144,41,205,Regular Air,20/04/2016,4,2016
+5986,High,1282,SmallBusiness,Bangkok,Furniture,Chairs,Jumbo Drum,63,20,1022,Delivery Truck,20/04/2016,4,2016
+90950,Medium,3027,Consumer,Shanghai,Technology,Telephones,Small Box,755,9,1393,Regular Air,22/04/2016,4,2016
+86651,Critical,1680,Consumer,Victoria,Office Supplies,Rubber Bands,Wrap Bag,50,13,76,Regular Air,23/04/2016,4,2016
+86243,Not Specified,3275,SmallBusiness,Hartford,Office Supplies,Paper,Small Box,-25,2,13,Regular Air,23/04/2016,4,2016
+87102,Not Specified,3163,Corporate,Austin,Technology,Peripherals,Small Box,226,10,761,Regular Air,25/04/2016,4,2016
+91207,Medium,749,Corporate,St. Petersburg,Technology,Telephones,Wrap Bag,-17,1,22,Regular Air,26/04/2016,4,2016
+87040,Low,2517,HomeOffice,Barcelona,Technology,Telephones,Small Box,425,5,1011,Regular Air,26/04/2016,4,2016
+89229,Critical,2455,HomeOffice,Shanghai,Technology,Telephones,Small Pack,-87,11,405,Regular Air,28/04/2016,4,2016
+90586,Medium,339,Corporate,Bristol,Technology,Telephones,Small Pack,421,8,726,Regular Air,28/04/2016,4,2016
+88263,High,1790,Consumer,Ahmedabad,Office Supplies,Labels,Small Box,-82,4,122,Regular Air,29/04/2016,4,2016
+88680,Low,666,Corporate,Canberra,Office Supplies,Accessories,Small Box,17,7,24,Regular Air,02/05/2016,5,2016
+18917,Critical,3079,SmallBusiness,Lincoln,Office Supplies,Accessories,Small Box,-8,18,36,Regular Air,02/05/2016,5,2016
+89413,Medium,1384,Consumer,Rio de Janeiro,Technology,Telephones,Small Box,-847,2,409,Regular Air,03/05/2016,5,2016
+90702,High,430,SmallBusiness,Hobart,Furniture,Chairs,Jumbo Drum,188,16,1505,Delivery Truck,04/05/2016,5,2016
+90510,Low,3366,HomeOffice,Albany,Technology,Peripherals,Small Box,998,15,1519,Regular Air,05/05/2016,5,2016
+86585,High,1139,HomeOffice,Las Plumas,Technology,Peripherals,Small Box,14,12,1738,Regular Air,05/05/2016,5,2016
+85934,High,2846,Corporate,Riyadh,Technology,Office Machines,Medium Box,-177,1,151,Express Air,06/05/2016,5,2016
+88146,Not Specified,2468,Corporate,Aomori,Office Supplies,Pens,Wrap Bag,14,10,20,Express Air,06/05/2016,5,2016
+88519,Medium,127,Consumer,Belfast,Office Supplies,Accessories,Small Box,7,3,14,Regular Air,06/05/2016,5,2016
+89618,Not Specified,2334,SmallBusiness,Paris,Furniture,Furnishings,Wrap Bag,94,16,138,Regular Air,09/05/2016,5,2016
+91005,High,2480,Corporate,Tokyo,Technology,Telephones,Small Pack,-165,12,638,Regular Air,09/05/2016,5,2016
+88147,Low,2469,HomeOffice,Osaka,Office Supplies,Pens,Small Box,-288,7,233,Regular Air,09/05/2016,5,2016
+87827,High,1609,Consumer,Merida,Office Supplies,Appliances,Large Box,-38,11,48,Regular Air,10/05/2016,5,2016
+90944,High,765,Consumer,Ryazan,Furniture,Tables,Jumbo Drum,63,3,265,Delivery Truck,11/05/2016,5,2016
+87126,Low,2034,Consumer,Johannesburg,Office Supplies,Storage,Small Box,-231,9,1798,Regular Air,11/05/2016,5,2016
+89759,High,1332,SmallBusiness,Recife,Office Supplies,Labels,Small Box,56,12,83,Regular Air,12/05/2016,5,2016
+88467,High,1080,Corporate,Moscow,Technology,Peripherals,Small Box,211,8,794,Regular Air,13/05/2016,5,2016
+86043,Not Specified,319,Corporate,Cardiff,Office Supplies,Paper,Small Box,-54,9,45,Regular Air,13/05/2016,5,2016
+86598,Low,2924,Consumer,Naples,Technology,Peripherals,Small Pack,-35,12,107,Regular Air,17/05/2016,5,2016
+87025,Low,602,HomeOffice,Canberra,Office Supplies,Paper,Small Box,124,14,277,Regular Air,17/05/2016,5,2016
+90253,High,1620,Consumer,Cancun,Office Supplies,Storage,Large Box,-759,14,1418,Express Air,18/05/2016,5,2016
+90371,Critical,500,Corporate,Adelaide,Office Supplies,Labels,Small Box,28,9,43,Regular Air,20/05/2016,5,2016
+91464,Critical,2055,HomeOffice,Vancouver,Furniture,Furnishings,Wrap Bag,-161,15,112,Regular Air,20/05/2016,5,2016
+91434,Critical,794,Corporate,Moscow,Technology,Office Machines,Large Box,-926,3,19542,Regular Air,20/05/2016,5,2016
+43523,Medium,198,SmallBusiness,Belfast,Office Supplies,Paper,Small Box,-94,65,394,Regular Air,22/05/2016,5,2016
+89297,Critical,274,Corporate,Liverpool,Office Supplies,Rubber Bands,Wrap Bag,6,5,13,Regular Air,23/05/2016,5,2016
+12804,Medium,2670,HomeOffice,Los Angeles,Office Supplies,Labels,Small Box,28,27,88,Regular Air,24/05/2016,5,2016
+88307,High,2580,HomeOffice,Raleigh,Office Supplies,Accessories,Small Box,14,4,20,Regular Air,25/05/2016,5,2016
+89652,High,354,HomeOffice,Sheffield,Office Supplies,Storage,Small Box,416,15,945,Regular Air,25/05/2016,5,2016
+86408,Low,1462,HomeOffice,Rio de Janeiro,Office Supplies,Storage,Small Box,-19,1,27,Regular Air,26/05/2016,5,2016
+88823,Low,2812,Corporate,Standerton,Office Supplies,Accessories,Small Box,-55,15,76,Regular Air,28/05/2016,5,2016
+89968,Low,162,HomeOffice,Manchester,Office Supplies,Pens,Wrap Bag,8,8,23,Regular Air,28/05/2016,5,2016
+88919,Not Specified,2996,SmallBusiness,Santa Fe,Furniture,Furnishings,Medium Box,8,12,124,Regular Air,29/05/2016,5,2016
+89921,Critical,691,HomeOffice,Sydney,Office Supplies,Paper,Small Box,-10,1,37,Regular Air,31/05/2016,5,2016
+90703,Low,430,SmallBusiness,Hobart,Office Supplies,Accessories,Small Box,132,16,199,Regular Air,31/05/2016,5,2016
+86857,Low,1856,Corporate,Vancouver,Technology,Office Machines,Medium Box,1882,15,3134,Regular Air,01/06/2016,6,2016
+88123,Medium,2731,Consumer,Milan,Office Supplies,Accessories,Small Box,227,12,332,Regular Air,02/06/2016,6,2016
+90733,Medium,1500,HomeOffice,Sao Paulo,Office Supplies,Appliances,Small Box,243,5,1783,Regular Air,04/06/2016,6,2016
+90830,Medium,178,SmallBusiness,Cardiff,Office Supplies,Paper,Small Box,26,8,54,Regular Air,05/06/2016,6,2016
+45413,High,1193,SmallBusiness,Buenos Aires,Office Supplies,Accessories,Small Box,2,36,193,Regular Air,07/06/2016,6,2016
+87340,Not Specified,1913,Corporate,Victoria,Office Supplies,Pens,Wrap Bag,-14,15,23,Regular Air,07/06/2016,6,2016
+87340,Not Specified,1914,Corporate,Victoria,Office Supplies,Appliances,Small Box,901,5,1482,Regular Air,07/06/2016,6,2016
+89737,Critical,1265,HomeOffice,Sao Paulo,Technology,Telephones,Small Box,303,9,608,Regular Air,10/06/2016,6,2016
+87860,Critical,1793,Consumer,Varanasi,Furniture,Furnishings,Small Box,-190,10,326,Express Air,10/06/2016,6,2016
+86028,Critical,454,HomeOffice,Perth,Furniture,Furnishings,Small Pack,-29,19,126,Regular Air,11/06/2016,6,2016
+87001,Not Specified,776,HomeOffice,Ryazan,Office Supplies,Storage,Large Box,-849,17,1371,Regular Air,12/06/2016,6,2016
+53350,Not Specified,3121,HomeOffice,New York City,Office Supplies,Accessories,Small Box,2507,36,11045,Regular Air,14/06/2016,6,2016
+16897,Not Specified,2882,Consumer,Stockholm,Furniture,Chairs,Jumbo Drum,-235,2,664,Delivery Truck,14/06/2016,6,2016
+5984,Low,1193,Consumer,San Pedro,Office Supplies,Appliances,Small Box,-30,56,605,Regular Air,16/06/2016,6,2016
+91485,Critical,2337,HomeOffice,Marseille,Office Supplies,Appliances,Small Box,521,17,807,Regular Air,17/06/2016,6,2016
+86048,Critical,1847,HomeOffice,Vancouver,Technology,Telephones,Small Box,41,6,889,Regular Air,18/06/2016,6,2016
+89693,Medium,1346,HomeOffice,Tel Aviv,Technology,Telephones,Medium Box,2,11,88,Regular Air,19/06/2016,6,2016
+90400,High,2162,Corporate,Ahmedabad,Furniture,Bookcases,Jumbo Box,-79,8,545,Delivery Truck,21/06/2016,6,2016
+89075,High,3017,Corporate,Riyadh,Technology,Telephones,Small Box,660,18,1228,Regular Air,23/06/2016,6,2016
+88957,Medium,1312,Corporate,Rio de Janeiro,Office Supplies,Accessories,Small Box,3,3,27,Regular Air,25/06/2016,6,2016
+88291,Low,2859,Corporate,Santiago,Office Supplies,Pens,Wrap Bag,25,19,35,Express Air,26/06/2016,6,2016
+90898,Low,2118,HomeOffice,Hong Kong,Furniture,Chairs,Jumbo Drum,-214,3,301,Delivery Truck,26/06/2016,6,2016
+86716,Not Specified,1447,SmallBusiness,Rio de Janeiro,Furniture,Chairs,Jumbo Drum,-173,2,355,Delivery Truck,28/06/2016,6,2016
+87615,Low,1623,SmallBusiness,Merida,Technology,Telephones,Small Box,806,12,1516,Express Air,28/06/2016,6,2016
+88526,Low,3,Corporate,Sydney,Technology,Office Machines,Jumbo Drum,968,12,1409,Delivery Truck,30/06/2016,6,2016
+88420,High,2127,HomeOffice,Cancun,Technology,Telephones,Small Box,804,12,1469,Regular Air,02/07/2016,7,2016
+91289,High,2459,HomeOffice,Shanghai,Office Supplies,Pens,Wrap Bag,85,13,127,Regular Air,02/07/2016,7,2016
+87144,High,923,SmallBusiness,Kaliningrad,Office Supplies,Storage,Small Box,1447,13,2176,Express Air,03/07/2016,7,2016
+89954,Medium,1778,Corporate,Cancun,Technology,Telephones,Small Box,-17,5,231,Regular Air,06/07/2016,7,2016
+86785,High,1116,HomeOffice,Singapore,Office Supplies,Paper,Small Box,181,17,410,Regular Air,07/07/2016,7,2016
+25569,High,1291,SmallBusiness,Córdoba,Office Supplies,Paper,Small Box,-18,38,448,Regular Air,08/07/2016,7,2016
+90511,Low,3366,HomeOffice,Charlotte,Furniture,Bookcases,Jumbo Box,-428,4,426,Delivery Truck,09/07/2016,7,2016
+87794,Not Specified,2447,Consumer,Shanghai,Technology,Peripherals,Small Pack,230,8,357,Regular Air,09/07/2016,7,2016
+1793,Not Specified,1745,HomeOffice,Hong Kong,Office Supplies,Accessories,Small Box,-92,50,321,Regular Air,10/07/2016,7,2016
+86955,Medium,2395,Corporate,Raleigh,Furniture,Furnishings,Small Box,186,13,438,Regular Air,12/07/2016,7,2016
+91178,Not Specified,540,SmallBusiness,Adelaide,Office Supplies,Appliances,Large Box,-58,16,73,Express Air,12/07/2016,7,2016
+86008,Not Specified,2137,Corporate,Cancun,Office Supplies,Pens,Wrap Bag,112,8,157,Regular Air,14/07/2016,7,2016
+89133,Not Specified,3035,HomeOffice,Shanghai,Office Supplies,Appliances,Medium Box,-185,16,351,Regular Air,15/07/2016,7,2016
+89629,Critical,1033,Corporate,Singapore,Office Supplies,Accessories,Small Box,39,4,252,Regular Air,16/07/2016,7,2016
+88779,Not Specified,2984,Corporate,Hartford,Technology,Peripherals,Small Pack,-57,2,78,Regular Air,16/07/2016,7,2016
+91450,Not Specified,2564,HomeOffice,Albany,Office Supplies,Rubber Bands,Wrap Bag,7,14,31,Regular Air,19/07/2016,7,2016
+86652,Low,1680,Consumer,Toronto,Technology,Peripherals,Small Box,-65,13,412,Regular Air,19/07/2016,7,2016
+86810,Not Specified,3172,HomeOffice,Marseille,Furniture,Chairs,Jumbo Drum,-401,1,275,Delivery Truck,20/07/2016,7,2016
+87206,Not Specified,1727,SmallBusiness,Beijing,Office Supplies,Paper,Small Box,-127,8,175,Regular Air,20/07/2016,7,2016
+90877,Low,2566,HomeOffice,Austin,Office Supplies,Accessories,Small Box,228,15,360,Regular Air,20/07/2016,7,2016
+88037,Low,2209,HomeOffice,Mossel Bay,Office Supplies,Appliances,Small Box,8,15,178,Regular Air,21/07/2016,7,2016
+90749,Low,1480,Consumer,Rio de Janeiro,Office Supplies,Storage,Small Box,-53,3,51,Regular Air,25/07/2016,7,2016
+86708,High,2251,HomeOffice,Vancouver,Furniture,Chairs,Jumbo Drum,4999,14,7328,Delivery Truck,25/07/2016,7,2016
+42982,Low,491,Consumer,Edinburgh,Furniture,Furnishings,Large Box,448,17,1852,Express Air,26/07/2016,7,2016
+86463,Medium,908,HomeOffice,Voronezh,Technology,Telephones,Small Box,70,8,1291,Express Air,28/07/2016,7,2016
+88994,Low,2343,Corporate,Paris,Office Supplies,Appliances,Small Box,1303,11,1983,Regular Air,28/07/2016,7,2016
+90165,Low,3120,HomeOffice,Boise,Technology,Copiers and Fax,Large Box,-92,1,192,Regular Air,29/07/2016,7,2016
+90690,Not Specified,2192,HomeOffice,Bangalore,Office Supplies,Appliances,Small Box,47,9,109,Express Air,31/07/2016,7,2016
+13988,Not Specified,2190,HomeOffice,Ahmedabad,Office Supplies,Appliances,Small Box,-2,36,436,Express Air,31/07/2016,7,2016
+91511,Low,2754,Consumer,Augusta,Office Supplies,Accessories,Small Box,-57,13,73,Regular Air,31/07/2016,7,2016
+87972,Critical,2258,Corporate,Vancouver,Office Supplies,Rubber Bands,Wrap Bag,-20,12,50,Regular Air,03/08/2016,8,2016
+87972,Critical,2258,Corporate,Toronto,Office Supplies,Storage,Small Box,20,3,193,Regular Air,03/08/2016,8,2016
+88711,Not Specified,2715,Corporate,Madrid,Office Supplies,Labels,Small Box,41,21,61,Regular Air,03/08/2016,8,2016
+87268,High,977,Corporate,Moscow,Office Supplies,Appliances,Small Box,77,3,378,Regular Air,04/08/2016,8,2016
+90326,High,2450,HomeOffice,Shanghai,Office Supplies,Paper,Small Box,-44,8,49,Regular Air,05/08/2016,8,2016
+86994,High,3180,Corporate,New York,Furniture,Tables,Jumbo Box,-280,18,2128,Delivery Truck,06/08/2016,8,2016
+91052,Low,2801,HomeOffice,Mossel Bay,Office Supplies,Paper,Small Box,-14,6,39,Regular Air,09/08/2016,8,2016
+89809,Low,3195,Consumer,Des Moines,Technology,Telephones,Small Box,565,13,1625,Express Air,09/08/2016,8,2016
+87926,Medium,2545,SmallBusiness,Houston,Office Supplies,Storage,Small Box,567,5,802,Regular Air,09/08/2016,8,2016
+89233,Not Specified,2454,Corporate,Shanghai,Office Supplies,Paper,Small Box,5,11,73,Regular Air,11/08/2016,8,2016
+86030,Medium,454,Corporate,Adelaide,Furniture,Furnishings,Small Box,215,25,332,Regular Air,11/08/2016,8,2016
+91303,High,3351,SmallBusiness,San Francisco,Technology,Peripherals,Small Pack,41,6,104,Regular Air,12/08/2016,8,2016
+90903,High,1876,Consumer,Victoria,Technology,Copiers and Fax,Large Box,435,2,1418,Regular Air,13/08/2016,8,2016
+88792,Critical,1707,Consumer,Toronto,Office Supplies,Accessories,Small Box,441,3,1266,Regular Air,14/08/2016,8,2016
+89002,Medium,2483,Corporate,Tokyo,Furniture,Furnishings,Medium Box,-195,25,139,Regular Air,14/08/2016,8,2016
+86677,Medium,1593,HomeOffice,Tijuana,Office Supplies,Paper,Small Box,-10,6,30,Regular Air,16/08/2016,8,2016
+90723,Low,2372,Corporate,Providence,Office Supplies,Pens,Small Box,-38,20,349,Regular Air,17/08/2016,8,2016
+90172,Medium,895,Corporate,Kaliningrad,Office Supplies,Paper,Small Box,-20,7,45,Express Air,17/08/2016,8,2016
+86786,Critical,1115,Consumer,Buenos Aires,Office Supplies,Storage,Small Box,434,21,872,Regular Air,19/08/2016,8,2016
+90466,High,3313,SmallBusiness,Salem,Office Supplies,Appliances,Jumbo Drum,-205,11,791,Delivery Truck,19/08/2016,8,2016
+88725,Critical,2324,SmallBusiness,Hong Kong,Technology,Peripherals,Small Pack,288,13,452,Regular Air,20/08/2016,8,2016
+91015,High,1994,SmallBusiness,Varanasi,Office Supplies,Paper,Small Box,-136,25,190,Regular Air,21/08/2016,8,2016
+89154,Medium,2685,SmallBusiness,Stockholm,Office Supplies,Envelopes,Small Box,5,19,615,Regular Air,22/08/2016,8,2016
+87228,Medium,1127,Consumer,San Pedro,Office Supplies,Envelopes,Small Box,230,7,419,Regular Air,23/08/2016,8,2016
+88576,High,860,SmallBusiness,Voronezh,Office Supplies,Appliances,Large Box,-205,8,468,Regular Air,26/08/2016,8,2016
+89534,High,154,HomeOffice,Bristol,Office Supplies,Paper,Small Box,-380,23,480,Regular Air,27/08/2016,8,2016
+86344,Medium,1697,HomeOffice,Vancouver,Technology,Telephones,Small Box,-10,2,391,Regular Air,27/08/2016,8,2016
+86805,High,3134,Corporate,Raleigh,Office Supplies,Envelopes,Small Box,-57,22,359,Regular Air,29/08/2016,8,2016
+89825,Critical,1957,Consumer,Beijing,Office Supplies,Accessories,Small Box,83,9,265,Regular Air,29/08/2016,8,2016
+89165,Not Specified,2295,Corporate,Hong Kong,Office Supplies,Accessories,Small Box,21,13,142,Regular Air,30/08/2016,8,2016
+86245,Low,3273,SmallBusiness,Lincoln,Office Supplies,Rubber Bands,Wrap Bag,26,12,43,Regular Air,01/09/2016,9,2016
+86245,Low,3273,SmallBusiness,Des Moines,Furniture,Furnishings,Small Pack,-35,26,121,Regular Air,01/09/2016,9,2016
+88618,High,2964,Consumer,Nantes,Technology,Office Machines,Jumbo Drum,27,15,1763,Delivery Truck,02/09/2016,9,2016
+89272,Medium,824,SmallBusiness,Kaliningrad,Furniture,Furnishings,Large Box,321,25,1185,Express Air,04/09/2016,9,2016
+86323,Low,597,Consumer,Hobart,Furniture,Furnishings,Small Box,-4,19,738,Regular Air,04/09/2016,9,2016
+86719,High,245,Corporate,Bristol,Furniture,Bookcases,Jumbo Box,-1431,21,1023,Delivery Truck,04/09/2016,9,2016
+86083,Low,1238,Corporate,Cairo,Furniture,Tables,Jumbo Box,-124,6,1744,Delivery Truck,07/09/2016,9,2016
+32804,Medium,2107,Corporate,Chicago,Office Supplies,Accessories,Small Box,-60,42,173,Regular Air,08/09/2016,9,2016
+89638,Medium,1098,HomeOffice,Bangkok,Furniture,Furnishings,Large Box,884,11,1511,Regular Air,08/09/2016,9,2016
+90308,Low,1509,Corporate,Recife,Furniture,Furnishings,Medium Box,594,17,1812,Regular Air,09/09/2016,9,2016
+87533,Not Specified,3402,Consumer,Rome,Furniture,Tables,Jumbo Box,-1184,4,2140,Delivery Truck,11/09/2016,9,2016
+88292,Low,2859,Corporate,Santiago,Office Supplies,Appliances,Small Box,-1,25,387,Regular Air,11/09/2016,9,2016
+89826,High,1958,Consumer,Hong Kong,Office Supplies,Appliances,Small Box,410,13,785,Regular Air,12/09/2016,9,2016
+26021,Critical,2491,Consumer,Los Angeles,Technology,Telephones,Medium Box,-8,36,798,Regular Air,13/09/2016,9,2016
+86685,High,2234,Consumer,Victoria,Office Supplies,Appliances,Small Box,153,10,406,Regular Air,13/09/2016,9,2016
+86488,High,2663,SmallBusiness,Aomori,Office Supplies,Accessories,Small Box,-32,9,62,Regular Air,14/09/2016,9,2016
+87295,Critical,3123,Corporate,Boise,Office Supplies,Paper,Wrap Bag,25,8,47,Regular Air,15/09/2016,9,2016
+86911,Critical,3153,Corporate,San Francisco,Office Supplies,Appliances,Large Box,-28,21,90,Regular Air,15/09/2016,9,2016
+87929,Not Specified,2543,HomeOffice,Dallas,Office Supplies,Paper,Small Box,-17,15,96,Regular Air,17/09/2016,9,2016
+59238,High,2618,Corporate,New York City,Office Supplies,Pens,Small Pack,9,23,964,Express Air,18/09/2016,9,2016
+91029,Critical,1744,Consumer,Hong Kong,Office Supplies,Envelopes,Small Box,-47,23,59,Regular Air,18/09/2016,9,2016
+85945,Low,1185,Consumer,Yaounde,Office Supplies,Pens,Small Pack,118,8,166,Regular Air,20/09/2016,9,2016
+86345,Low,1696,HomeOffice,Toronto,Office Supplies,Accessories,Small Box,2,17,150,Regular Air,21/09/2016,9,2016
+87327,Medium,2855,Corporate,Shanghai,Technology,Peripherals,Small Pack,280,19,410,Regular Air,21/09/2016,9,2016
+89046,Critical,1975,Consumer,Merida,Office Supplies,Storage,Large Box,-378,8,2242,Express Air,22/09/2016,9,2016
+13984,Critical,1959,HomeOffice,Hong Kong,Furniture,Furnishings,Wrap Bag,-1119,63,4467,Regular Air,23/09/2016,9,2016
+89800,Low,2831,HomeOffice,Riyadh,Office Supplies,Pens,Wrap Bag,1,22,60,Regular Air,23/09/2016,9,2016
+87788,Critical,1540,Corporate,Sao Paulo,Furniture,Furnishings,Small Box,-48,3,120,Regular Air,25/09/2016,9,2016
+91385,High,878,Corporate,Yaroslavl,Office Supplies,Paper,Small Box,213,8,365,Regular Air,27/09/2016,9,2016
+91487,High,2338,HomeOffice,Paris,Office Supplies,Storage,Small Box,1582,20,2955,Express Air,28/09/2016,9,2016
+39654,Medium,1413,Corporate,Recife,Office Supplies,Accessories,Small Box,319,82,1794,Express Air,29/09/2016,9,2016
+86135,High,303,Consumer,Manchester,Office Supplies,Appliances,Jumbo Drum,442,26,5312,Delivery Truck,30/09/2016,9,2016
+87566,Not Specified,2797,Consumer,Augusta,Office Supplies,Paper,Small Box,-27,5,25,Regular Air,30/09/2016,9,2016
+87567,High,2797,Corporate,Standerton,Technology,Office Machines,Jumbo Box,1157,8,3242,Delivery Truck,02/10/2016,10,2016
+90831,Critical,178,SmallBusiness,Belfast,Furniture,Tables,Jumbo Box,-431,4,704,Delivery Truck,03/10/2016,10,2016
+86995,Not Specified,3180,Corporate,El Paso,Technology,Office Machines,Jumbo Drum,-9,16,1230,Delivery Truck,03/10/2016,10,2016
+86247,Critical,3274,SmallBusiness,Jackson,Office Supplies,Accessories,Small Box,-30,2,33,Regular Air,04/10/2016,10,2016
+89090,Not Specified,951,Consumer,Voronezh,Office Supplies,Paper,Wrap Bag,-55,26,207,Regular Air,05/10/2016,10,2016
+89111,Not Specified,1769,HomeOffice,Tijuana,Office Supplies,Paper,Small Box,2,3,54,Express Air,06/10/2016,10,2016
+89479,Low,1668,Consumer,Cape Town,Office Supplies,Appliances,Small Box,-22,4,42,Regular Air,07/10/2016,10,2016
+85877,High,1740,Corporate,Hong Kong,Office Supplies,Storage,Small Box,48,6,68,Regular Air,07/10/2016,10,2016
+90228,Medium,2926,Corporate,Rome,Office Supplies,Paper,Small Box,51,19,120,Regular Air,08/10/2016,10,2016
+85963,Not Specified,2279,HomeOffice,Vancouver,Office Supplies,Pens,Wrap Bag,3,25,98,Regular Air,10/10/2016,10,2016
+86248,Critical,3275,HomeOffice,Charlotte,Office Supplies,Pens,Wrap Bag,-16,11,21,Regular Air,11/10/2016,10,2016
+91016,Not Specified,1994,Corporate,Bangalore,Furniture,Tables,Jumbo Box,-555,12,1719,Delivery Truck,12/10/2016,10,2016
+90321,Critical,2215,Corporate,Mossel Bay,Office Supplies,Pens,Wrap Bag,16,15,104,Regular Air,14/10/2016,10,2016
+86306,High,262,HomeOffice,Sheffield,Technology,Telephones,Small Box,-393,3,334,Express Air,14/10/2016,10,2016
+88459,Low,2400,Corporate,San Diego,Office Supplies,Pens,Small Pack,5,9,192,Regular Air,15/10/2016,10,2016
+89381,Low,1233,Consumer,Buenos Aires,Office Supplies,Rubber Bands,Wrap Bag,-1,9,16,Regular Air,17/10/2016,10,2016
+87914,Critical,3393,Consumer,Milwaukee,Office Supplies,Paper,Small Box,-68,20,124,Regular Air,17/10/2016,10,2016
+85926,Not Specified,2630,Corporate,Riyadh,Technology,Telephones,Small Box,544,13,2055,Regular Air,18/10/2016,10,2016
+89438,Medium,998,SmallBusiness,Voronezh,Furniture,Furnishings,Medium Box,366,9,576,Regular Air,20/10/2016,10,2016
+87841,High,2669,HomeOffice,Nagoya,Office Supplies,Scissors,Medium Box,-742,5,8036,Regular Air,21/10/2016,10,2016
+88250,High,3077,Consumer,Santa Fe,Office Supplies,Paper,Small Box,-118,13,73,Regular Air,22/10/2016,10,2016
+90972,Medium,2330,HomeOffice,Hong Kong,Furniture,Chairs,Jumbo Drum,-1078,17,1704,Delivery Truck,24/10/2016,10,2016
+50656,Critical,2571,Consumer,New York City,Furniture,Furnishings,Small Box,47,82,1067,Regular Air,24/10/2016,10,2016
+89216,Critical,2743,Corporate,Raleigh,Furniture,Furnishings,Small Pack,40,18,125,Regular Air,24/10/2016,10,2016
+86988,Low,2783,Corporate,Raleigh,Furniture,Bookcases,Jumbo Box,-117,13,1275,Delivery Truck,26/10/2016,10,2016
+91243,Not Specified,2041,HomeOffice,Victoria,Technology,Office Machines,Medium Box,-3882,1,1902,Regular Air,27/10/2016,10,2016
+38912,Low,342,Corporate,Manchester,Technology,Telephones,Small Box,201,55,3754,Regular Air,27/10/2016,10,2016
+90983,High,1105,HomeOffice,Istanbul,Furniture,Furnishings,Small Box,-51,13,62,Regular Air,28/10/2016,10,2016
+86325,High,594,Consumer,Melbourne,Office Supplies,Pens,Wrap Bag,41,17,104,Regular Air,29/10/2016,10,2016
+48706,Low,1217,SmallBusiness,Yaounde,Office Supplies,Rubber Bands,Wrap Bag,-3,59,65,Regular Air,29/10/2016,10,2016
+86032,Low,457,Corporate,Adelaide,Furniture,Furnishings,Small Pack,6,16,102,Regular Air,31/10/2016,10,2016
+89828,Low,1957,Consumer,Beijing,Office Supplies,Pens,Wrap Bag,116,40,178,Regular Air,31/10/2016,10,2016
+88125,High,2727,Consumer,Naples,Office Supplies,Labels,Small Box,88,36,137,Regular Air,01/11/2016,11,2016
+87568,Not Specified,2795,Corporate,Sacramento,Furniture,Furnishings,Wrap Bag,65,18,144,Regular Air,04/11/2016,11,2016
+89678,Critical,2124,Corporate,Cancun,Office Supplies,Accessories,Small Box,73,23,103,Express Air,05/11/2016,11,2016
+89425,Not Specified,3073,Corporate,Stockholm,Office Supplies,Paper,Small Box,132,34,186,Regular Air,06/11/2016,11,2016
+90235,High,1568,Corporate,Hong Kong,Furniture,Furnishings,Medium Box,1,26,2379,Regular Air,08/11/2016,11,2016
+86653,Critical,1680,Consumer,Victoria,Office Supplies,Appliances,Large Box,321,23,1450,Express Air,08/11/2016,11,2016
+88818,Low,2650,Corporate,Shanghai,Technology,Peripherals,Small Pack,1107,42,1653,Regular Air,09/11/2016,11,2016
+85978,Medium,211,Consumer,Bristol,Office Supplies,Storage,Large Box,146,9,608,Express Air,11/11/2016,11,2016
+90142,Critical,1090,Corporate,Bangkok,Furniture,Furnishings,Small Box,8,7,40,Regular Air,12/11/2016,11,2016
+87116,Medium,1069,HomeOffice,Yaroslavl,Office Supplies,Labels,Small Box,37,11,55,Regular Air,13/11/2016,11,2016
+86044,Not Specified,317,Corporate,Nottingham,Office Supplies,Storage,Small Box,102,43,579,Regular Air,16/11/2016,11,2016
+87669,Low,23,Corporate,Edinburgh,Furniture,Tables,Jumbo Box,342,11,1526,Delivery Truck,17/11/2016,11,2016
+44737,Medium,1104,HomeOffice,Melbourne,Technology,Telephones,Wrap Bag,38,58,1260,Regular Air,18/11/2016,11,2016
+88793,Not Specified,1708,SmallBusiness,Vancouver,Technology,Peripherals,Small Box,61,1,96,Regular Air,19/11/2016,11,2016
+86143,Medium,2916,HomeOffice,Milan,Technology,Telephones,Small Box,84,25,1654,Regular Air,20/11/2016,11,2016
+89312,Low,2442,Corporate,Shanghai,Office Supplies,Paper,Small Box,408,44,2182,Regular Air,21/11/2016,11,2016
+88567,Medium,2069,Consumer,Victoria,Technology,Peripherals,Small Pack,-88,21,971,Regular Air,23/11/2016,11,2016
+91260,Low,1983,Consumer,Merida,Office Supplies,Appliances,Small Box,17,6,23,Express Air,23/11/2016,11,2016
+89866,Not Specified,1782,HomeOffice,Varanasi,Technology,Peripherals,Small Box,586,41,6333,Regular Air,24/11/2016,11,2016
+88452,Medium,3064,Consumer,Nagasaki,Furniture,Chairs,Jumbo Drum,722,23,3634,Delivery Truck,27/11/2016,11,2016
+86091,Not Specified,2968,SmallBusiness,San Diego,Furniture,Chairs,Jumbo Drum,140,14,481,Delivery Truck,28/11/2016,11,2016
+90999,Not Specified,132,Corporate,Cardiff,Office Supplies,Paper,Wrap Bag,778,32,1179,Regular Air,29/11/2016,11,2016
+87207,High,1727,SmallBusiness,Beijing,Furniture,Chairs,Jumbo Drum,5854,18,8660,Delivery Truck,01/12/2016,12,2016
+88346,Critical,1952,Corporate,Beijing,Technology,Office Machines,Jumbo Drum,-27,16,9476,Delivery Truck,01/12/2016,12,2016
+90184,Critical,1758,Consumer,Tijuana,Furniture,Tables,Large Box,-164,3,650,Express Air,02/12/2016,12,2016
+90916,Critical,549,Corporate,Adelaide,Office Supplies,Accessories,Small Box,-44,18,67,Regular Air,03/12/2016,12,2016
+91382,High,3067,Consumer,Aomori,Office Supplies,Scissors,Small Pack,-19,13,86,Regular Air,05/12/2016,12,2016
+86162,Low,1296,SmallBusiness,Cairo,Office Supplies,Paper,Small Box,87,14,161,Regular Air,05/12/2016,12,2016
+91465,Critical,2056,HomeOffice,Victoria,Furniture,Chairs,Jumbo Drum,-168,3,810,Delivery Truck,07/12/2016,12,2016
+89052,Critical,2977,SmallBusiness,Boise,Technology,Copiers and Fax,Large Box,5824,12,8865,Regular Air,08/12/2016,12,2016
+88415,Not Specified,1273,Corporate,Recife,Office Supplies,Paper,Small Box,-20,14,87,Regular Air,08/12/2016,12,2016
+91114,High,2429,HomeOffice,Riyadh,Office Supplies,Envelopes,Small Box,27,3,127,Regular Air,09/12/2016,12,2016
+88277,Low,2359,HomeOffice,Austin,Office Supplies,Appliances,Large Box,1,6,1847,Regular Air,09/12/2016,12,2016
+91193,Not Specified,2104,Corporate,Hong Kong,Furniture,Furnishings,Small Box,51,5,73,Regular Air,10/12/2016,12,2016
+89867,Not Specified,1786,Corporate,Bangalore,Technology,Office Machines,Jumbo Drum,-3120,14,12496,Delivery Truck,11/12/2016,12,2016
+86912,Critical,3156,Consumer,Baltimore,Furniture,Chairs,Jumbo Drum,87,21,3012,Delivery Truck,11/12/2016,12,2016
+89318,Not Specified,3098,Consumer,Columbus,Office Supplies,Storage,Large Box,-173,11,791,Regular Air,12/12/2016,12,2016
+90684,Critical,1665,Consumer,Mossel Bay,Furniture,Bookcases,Jumbo Box,-56,8,1190,Delivery Truck,15/12/2016,12,2016
+39399,Medium,2920,HomeOffice,Chicago,Office Supplies,Accessories,Small Box,23,56,584,Regular Air,16/12/2016,12,2016
+91121,High,1468,SmallBusiness,Sao Paulo,Technology,Peripherals,Small Box,2978,15,4622,Regular Air,17/12/2016,12,2016
+90576,Low,2001,Corporate,Davangere,Office Supplies,Accessories,Small Box,18,1,26,Regular Air,20/12/2016,12,2016
+87461,Medium,2535,SmallBusiness,Marseille,Furniture,Furnishings,Small Box,-34,23,148,Regular Air,20/12/2016,12,2016
+87461,Medium,2533,SmallBusiness,Lyon,Technology,Office Machines,Medium Box,-17,4,599,Regular Air,20/12/2016,12,2016
+86721,Critical,245,Corporate,Glasgow,Technology,Office Machines,Medium Box,558,16,878,Regular Air,23/12/2016,12,2016
+90174,Medium,896,Corporate,Voronezh,Technology,Telephones,Small Box,-147,3,379,Regular Air,24/12/2016,12,2016
+87389,Critical,2600,Corporate,Cape Town,Technology,Copiers and Fax,Jumbo Drum,576,8,3457,Delivery Truck,24/12/2016,12,2016
+86278,Medium,254,HomeOffice,Manchester,Office Supplies,Accessories,Small Box,-6,1,22,Regular Air,27/12/2016,12,2016
+88070,Not Specified,463,SmallBusiness,Hobart,Office Supplies,Accessories,Small Box,706,15,1044,Regular Air,27/12/2016,12,2016
+87694,Not Specified,2702,Corporate,Odessa,Office Supplies,Appliances,Small Box,-54,23,89,Regular Air,28/12/2016,12,2016
